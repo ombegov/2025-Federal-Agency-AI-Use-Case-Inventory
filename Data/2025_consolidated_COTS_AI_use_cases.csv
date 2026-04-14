@@ -1,0 +1,917 @@
+﻿Agency,AI Use Case,Agency Use (Y/N)?,Name of Commercial Product or Service Used,Estimated # of Licenses/Users
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,"Editing images, videos, or other public affairs materials using AI.",Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Scheduling and managing social media posts using AI.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Improving the quality of written communications using AI tools.,Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Summarizing the key points of a lengthy report using AI.,Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Using AI-assisted tools in word processors.,Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Generating code using AI.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Searching for agency information using a knowledge retrieval system.,Y,Microsoft 365 Copilot GCC,1-100
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Curating news articles and updates based on user preferences using AI.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Planning travel routes using AI-driven map applications.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Committee for Purchase From People Who Are Blind or Significantly Disabled,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Court Services and Offender Supervision Agency,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,"Editing images, videos, or other public affairs materials using AI.",Y,"Adobe Firefly, Microsoft M365 Copilot AI",1001-5000
+Court Services and Offender Supervision Agency,Scheduling and managing social media posts using AI.,Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"ChatGPT, Microsoft M365 Copilot AI, FS Pro",1001-5000
+Court Services and Offender Supervision Agency,Improving the quality of written communications using AI tools.,Y,"Grammarly, Microsoft M365 Copilot AI, FS Pro",1001-5000
+Court Services and Offender Supervision Agency,Summarizing the key points of a lengthy report using AI.,Y,"ChatGPT, Microsoft M365 Copilot AI",1001-5000
+Court Services and Offender Supervision Agency,Creating visual representations of data sets for reports or presentations using AI.,Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,Using AI-assisted tools in word processors.,Y,"Grammarly, Microsoft M365 Copilot AI, FS Pro",1001-5000
+Court Services and Offender Supervision Agency,Generating code using AI.,Y,Microsoft M365 Copilot AI,1001-5000
+Court Services and Offender Supervision Agency,Searching for agency information using a knowledge retrieval system.,Y,"ChatGPT, Microsoft M365 Copilot AI",1001-5000
+Court Services and Offender Supervision Agency,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Court Services and Offender Supervision Agency,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Splunk, Crowdstrike, MS Defender, Qualys. Palo Alto ",1001-5000
+Court Services and Offender Supervision Agency,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Court Services and Offender Supervision Agency,Curating news articles and updates based on user preferences using AI.,N,,
+Court Services and Offender Supervision Agency,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps",101-1000
+Court Services and Offender Supervision Agency,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Court Services and Offender Supervision Agency,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple Iphone,101-1000
+Department of Agriculture,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Agriculture,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Agriculture,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Teams Premium Intelligent Meeting Features,101-1000
+Department of Agriculture,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of Agriculture,"Editing images, videos, or other public affairs materials using AI.",N,,
+Department of Agriculture,Scheduling and managing social media posts using AI.,N,,
+Department of Agriculture,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,AskSage,1-100
+Department of Agriculture,Improving the quality of written communications using AI tools.,N,,
+Department of Agriculture,Summarizing the key points of a lengthy report using AI.,Y,AskSage,1-100
+Department of Agriculture,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Department of Agriculture,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+Department of Agriculture,Generating code using AI.,Y,GitHub Copilot,101-1000
+Department of Agriculture,Searching for agency information using a knowledge retrieval system.,Y,Microsoft Copilot Chat,"50,000+"
+Department of Agriculture,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Agriculture,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Microsoft Defender,1-100
+Department of Agriculture,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of Agriculture,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Agriculture,Planning travel routes using AI-driven map applications.,Y,Apple Maps,"10,000-50,000"
+Department of Agriculture,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Agriculture,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,"10,000-50,000"
+Department of Commerce,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Commerce,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Commerce,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,MS Teams,1-100
+Department of Commerce,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of Commerce,"Editing images, videos, or other public affairs materials using AI.",N,,
+Department of Commerce,Scheduling and managing social media posts using AI.,N,,
+Department of Commerce,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"MS 365 Copilot, Copilot Chat, PRISM/Bidscale",1-100
+Department of Commerce,Improving the quality of written communications using AI tools.,Y,"Open AI, Salesforce Agentforce","50,000+"
+Department of Commerce,Summarizing the key points of a lengthy report using AI.,Y,Palantir,1-100
+Department of Commerce,Creating visual representations of data sets for reports or presentations using AI.,Y,"MS Copilot, ChatGPT",1-100
+Department of Commerce,Using AI-assisted tools in word processors.,Y,Litera-compare,1-100
+Department of Commerce,Generating code using AI.,Y,"GitLab Duo, ChatGPT",101-1000
+Department of Commerce,Searching for agency information using a knowledge retrieval system.,Y,"AWS Bedrock, Azure OpenAI - Simple Chat, Salesforce Agentforce",1001-5000
+Department of Commerce,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Commerce,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Department of Commerce,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of Commerce,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Commerce,Planning travel routes using AI-driven map applications.,N,,
+Department of Commerce,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Commerce,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Department of Energy,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,"WebApps, OGC Docket Database, MCG Energy Solutions Integrated Asset Manager (IAM), OATI Transmission Scheduling",101-1000
+Department of Energy,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Splunk Online,1-100
+Department of Energy,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Microsoft 365 1, NNSS-Microsoft 365","10,000-50,000"
+Department of Energy,Prioritizing and categorizing incoming emails using AI.,Y,"CBSA - Commercial Business Support Application, Konica Minolta Dispatcher Paragon, KCNSC-Intune",1-100
+Department of Energy,"Editing images, videos, or other public affairs materials using AI.",Y,"Adobe creative suite, TV eyes",1-100
+Department of Energy,Scheduling and managing social media posts using AI.,Y,Sprout Social,1-100
+Department of Energy,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"ChatGPT Enterprise, Microsoft CoPilot, Gemini, Claude, ","10,000-50,000"
+Department of Energy,Improving the quality of written communications using AI tools.,Y,"ChatGPT Enterprise, Microsoft CoPilot, Gemini, Claude,","10,000-50,000"
+Department of Energy,Summarizing the key points of a lengthy report using AI.,Y,Doble Engineering Doble Test Assistant,"10,000-50,000"
+Department of Energy,Creating visual representations of data sets for reports or presentations using AI.,Y,Tableau Enterprise Visualization 1.0,101-1000
+Department of Energy,Using AI-assisted tools in word processors.,Y,Microsoft 365 1,"10,000-50,000"
+Department of Energy,Generating code using AI.,Y,GitHub Enterprise 1.0,"10,000-50,000"
+Department of Energy,Searching for agency information using a knowledge retrieval system.,Y,"OpenText Content Server, ChatGPT Enterprise, Microsoft CoPilot, Gemini, Claude, ","10,000-50,000"
+Department of Energy,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Energy,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"CrowdStrike Falcon 1.0, Microsoft Defender, Vectra AI, Splunk Enterprise Security","10,000-50,000"
+Department of Energy,Managing and prioritizing internal service or help desk tickets using AI.,Y,ServiceNow,101-1000
+Department of Energy,Curating news articles and updates based on user preferences using AI.,Y,Meltwater,1-100
+Department of Energy,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps","50,000+"
+Department of Energy,Finding and booking travel accommodations using AI-powered platforms.,Y,"Enterprise Travel System 2.0, DDSP Travel Request Form, ",101-1000
+Department of Energy,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,"Apple iPhone, Google Pixel","50,000+"
+Department of Health and Human Services,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,"Microsoft Outlook, Microsoft Teams, Microsoft 365 Copilot","5001-10,000"
+Department of Health and Human Services,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,"Asana, Microsoft 365 Copilot, Monday.com",1-100
+Department of Health and Human Services,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Microsoft Teams, Microsoft 365 Copilot, ChatGPT, CHIRP, Otter AI, Slack","10,000-50,000"
+Department of Health and Human Services,Prioritizing and categorizing incoming emails using AI.,Y,"Microsoft Outlook, Microsoft 365 Copilot","5001-10,000"
+Department of Health and Human Services,"Editing images, videos, or other public affairs materials using AI.",Y,"Adobe Firefly, Gemini, Microsoft 365 Copilot, DALL-E, Biorender, Canva, ChatGPT","5001-10,000"
+Department of Health and Human Services,Scheduling and managing social media posts using AI.,Y,"Sprout Social, ChatGPT, xAI gov",101-1000
+Department of Health and Human Services,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft 365 Copilot Chat, Microsoft 365 Copilot, AWS, ChatGPT, Gemini, xAI gov, CHIRP, Claude, EndNote, Microsoft Azure, Synthesia, Zotero, Credal + Claude and GPT API","10,000-50,000"
+Department of Health and Human Services,Improving the quality of written communications using AI tools.,Y,"Microsoft 365 Copilot Chat, Grammarly, Microsoft 365 Copilot, ChatGPT, Perplexity, Stanford Storm, CHIRP, Credal + Claude and GPT API","10,000-50,000"
+Department of Health and Human Services,Summarizing the key points of a lengthy report using AI.,Y,"Microsoft 365 Copilot Chat, Consensus, Adobe AI Assistant, ChatGPT, Perplexity, Claude, Cortellis, OFF-X, Gemini, Gemma (open LLM, Google Deep Mind), Microsoft 365 Copilot, scite.AI","10,000-50,000"
+Department of Health and Human Services,Creating visual representations of data sets for reports or presentations using AI.,Y,"Tableau, Biorender, ChatGPT, Microsoft 365 Copilot, Gemini",1001-5000
+Department of Health and Human Services,Using AI-assisted tools in word processors.,Y,"Microsoft Word, Microsoft 365 Copilot, Grammarly, ChatGPT, Gemini, Signals ELN","10,000-50,000"
+Department of Health and Human Services,Generating code using AI.,Y,"Credal + Claude and GPT API, Amazon Q Developer, GitHub Copilot, Anaconda AI Navigator, ChatGPT, Claude, Gemini, IntelliJ IDEA Ult, Logi AI Prompt Builder, Microsoft 365 Copilot, Plantir Foundry, Sourcegraph","5001-10,000"
+Department of Health and Human Services,Searching for agency information using a knowledge retrieval system.,Y,"Credal + Claude and GPT API, Palantir Foundry, Googla Appliance, Microsoft 365 Copilot Chat, ChatGPT, Gemini, Microsoft 365 Copilot, ScanSnap AI, ServiceNow","10,000-50,000"
+Department of Health and Human Services,Identifying and cataloging items in a storage room using AI-driven image recognition.,Y,"Microsoft AI Builder, Azure OpenAI Service, Google Lens",101-1000
+Department of Health and Human Services,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Crowdstrike, Purvue, Microsoft Defender, Absolute, ChatGPT, Cylance, BigFix, Ivanti, Palo Alto Firewall, SentinelOne","50,000+"
+Department of Health and Human Services,Managing and prioritizing internal service or help desk tickets using AI.,Y,"ServiceDesk, DRUID AI, Supportbench, ServiceDesk Plus",101-1000
+Department of Health and Human Services,Curating news articles and updates based on user preferences using AI.,Y,"Apple News, MediaViz AI, Google News Brief","5001-10,000"
+Department of Health and Human Services,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps","10,000-50,000"
+Department of Health and Human Services,Finding and booking travel accommodations using AI-powered platforms.,Y,"SAP Concur, Navan",1-100
+Department of Health and Human Services,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,"Apple iPhone, Windows Hello, Google Pixel","10,000-50,000"
+Department of Homeland Security,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Homeland Security,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Homeland Security,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Dragon Professional,101-1000
+Department of Homeland Security,Prioritizing and categorizing incoming emails using AI.,Y,M365 Copilot,101-1000
+Department of Homeland Security,"Editing images, videos, or other public affairs materials using AI.",Y,Flow aka Veo 3; Firefly,101-1000
+Department of Homeland Security,Scheduling and managing social media posts using AI.,N,,
+Department of Homeland Security,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"OpenWebUI, Bedrock, Copilot Chat, Ask Hamilton, NIPRGPT, CamoGPT, AcqBot","10,000-50,000"
+Department of Homeland Security,Improving the quality of written communications using AI tools.,Y,"OpenWebUI, Bedrock, Copilot Chat, Ask Hamilton, NIPRGPT, CamoGPT, AcqBot","10,000-50,000"
+Department of Homeland Security,Summarizing the key points of a lengthy report using AI.,Y,"OpenWebUI, Bedrock, Copilot Chat, Ask Hamilton, NIPRGPT, CamoGPT, AcqBot","10,000-50,000"
+Department of Homeland Security,Creating visual representations of data sets for reports or presentations using AI.,Y,"Azure Synapse Analytics, Copilot","5001-10,000"
+Department of Homeland Security,Using AI-assisted tools in word processors.,Y,"Adobe Premiere Spech to Text, Copilot","5001-10,000"
+Department of Homeland Security,Generating code using AI.,Y,"Poolside, Copilot, Ask Hamilton, Github Copilot, AI Foundry, Powerautomate AI Builder, CamoGPT, NIPRGPT",1001-5000
+Department of Homeland Security,Searching for agency information using a knowledge retrieval system.,Y,"RelativityOne, ServiceNow, Einstein, Vertex AI, Copilot, ","50,000+"
+Department of Homeland Security,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Homeland Security,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Andesite, Microsoft Security Copilot",101-1000
+Department of Homeland Security,Managing and prioritizing internal service or help desk tickets using AI.,Y,Sprinklr,1-100
+Department of Homeland Security,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Homeland Security,Planning travel routes using AI-driven map applications.,N,,
+Department of Homeland Security,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Homeland Security,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Department of Housing and Urban Development,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Housing and Urban Development,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Housing and Urban Development,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of Housing and Urban Development,"Editing images, videos, or other public affairs materials using AI.",N,,
+Department of Housing and Urban Development,Scheduling and managing social media posts using AI.,N,,
+Department of Housing and Urban Development,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Creating visual representations of data sets for reports or presentations using AI.,Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Generating code using AI.,N,,
+Department of Housing and Urban Development,Searching for agency information using a knowledge retrieval system.,Y,Microsoft Copilot,1-100
+Department of Housing and Urban Development,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Housing and Urban Development,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Department of Housing and Urban Development,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of Housing and Urban Development,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Housing and Urban Development,Planning travel routes using AI-driven map applications.,N,,
+Department of Housing and Urban Development,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Housing and Urban Development,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,1001-5000
+Department of State,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of State,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of State,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Microsoft Teams, Zoom","50,000+"
+Department of State,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of State,"Editing images, videos, or other public affairs materials using AI.",Y,"HeyGen, ChatGPT","5001-10,000"
+Department of State,Scheduling and managing social media posts using AI.,N,,
+Department of State,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"ChatGPT, Gemini, Claude, Grammarly","5001-10,000"
+Department of State,Improving the quality of written communications using AI tools.,Y,"Grammarly, ChatGPT, Gemini, Claude, NotebookLM","5001-10,000"
+Department of State,Summarizing the key points of a lengthy report using AI.,Y,"ChatGPT, Gemini, Claude, Grammarly, Perplexity, NotebookLM","5001-10,000"
+Department of State,Creating visual representations of data sets for reports or presentations using AI.,Y,"NotebookLM, HeyGen",1-100
+Department of State,Using AI-assisted tools in word processors.,Y,Grammarly,101-1000
+Department of State,Generating code using AI.,Y,"ChatGPT, Claude",1001-5000
+Department of State,Searching for agency information using a knowledge retrieval system.,Y,"ChatGPT, Claude","5001-10,000"
+Department of State,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of State,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Microsoft Defender, US AI Archangel, CRIBL, DATABRICKS, SimpleChat, SplunkCloud, Microsoft Purview, ServiceNow Now Assist, Dark Trace",1001-5000
+Department of State,Managing and prioritizing internal service or help desk tickets using AI.,Y,ServiceNow,101-1000
+Department of State,Curating news articles and updates based on user preferences using AI.,Y,"ChatGPT, Claude, Gemini, NotebookLM, Perplexity",1001-5000
+Department of State,Planning travel routes using AI-driven map applications.,N,,
+Department of State,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of State,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,"50,000+"
+Department of the Interior,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of the Interior,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of the Interior,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Evidence.com,1-100
+Department of the Interior,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of the Interior,"Editing images, videos, or other public affairs materials using AI.",Y,Microsoft Copilot,1-100
+Department of the Interior,Scheduling and managing social media posts using AI.,Y,Hootsuite,101-1000
+Department of the Interior,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,1-100
+Department of the Interior,Improving the quality of written communications using AI tools.,Y,Synthesia; Microsoft Copilot & Copilot Chat,"50,000+"
+Department of the Interior,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,101-1000
+Department of the Interior,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Department of the Interior,Using AI-assisted tools in word processors.,N,,
+Department of the Interior,Generating code using AI.,Y,GitHub Copilot for Visual Studio; Schoology; Claude Code; Splunk AI Assistant for SPL (Splunk Search Processing Language),101-1000
+Department of the Interior,Searching for agency information using a knowledge retrieval system.,N,,
+Department of the Interior,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of the Interior,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Department of the Interior,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of the Interior,Curating news articles and updates based on user preferences using AI.,N,,
+Department of the Interior,Planning travel routes using AI-driven map applications.,N,,
+Department of the Interior,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of the Interior,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Department of Labor,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,"Calendly, Reclaim.AI",
+Department of Labor,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,"Timely, Asana",
+Department of Labor,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Department of Labor,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of Labor,"Editing images, videos, or other public affairs materials using AI.",N,,
+Department of Labor,Scheduling and managing social media posts using AI.,Y,"ContentStudio, Sprout Social",
+Department of Labor,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"ChatGPT, Gemini, Claude",
+Department of Labor,Improving the quality of written communications using AI tools.,N,,
+Department of Labor,Summarizing the key points of a lengthy report using AI.,Y,"ChatGPT, Perplexity",
+Department of Labor,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Department of Labor,Using AI-assisted tools in word processors.,Y,"Grammarly, Microsoft Copilot",
+Department of Labor,Generating code using AI.,Y,"Poolside, GitHub Copilot",
+Department of Labor,Searching for agency information using a knowledge retrieval system.,Y,"ChatGPT, Gemini, Claude",
+Department of Labor,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Labor,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Crowdstrike Falcon, Microsoft Defender",
+Department of Labor,Managing and prioritizing internal service or help desk tickets using AI.,Y,"Supportbench, ServiceDesk Plus",
+Department of Labor,Curating news articles and updates based on user preferences using AI.,Y,"MediaViz AI, Google News Brief",
+Department of Labor,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps",
+Department of Labor,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Labor,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Department of Transportation,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Transportation,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Transportation,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Google Calendar,"5001-10,000"
+Department of Transportation,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of Transportation,"Editing images, videos, or other public affairs materials using AI.",Y,Adobe,1-100
+Department of Transportation,Scheduling and managing social media posts using AI.,Y,Sprout,1-100
+Department of Transportation,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Azure AI Foundry,1001-5000
+Department of Transportation,Improving the quality of written communications using AI tools.,N,,
+Department of Transportation,Summarizing the key points of a lengthy report using AI.,Y,Azure AI Foundry,1001-5000
+Department of Transportation,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Department of Transportation,Using AI-assisted tools in word processors.,N,,
+Department of Transportation,Generating code using AI.,N,,
+Department of Transportation,Searching for agency information using a knowledge retrieval system.,Y,"Databricks, Bedrock, Foundry",101-1000
+Department of Transportation,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Transportation,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Elastic Cloud, Palo Alto","10,000-50,000"
+Department of Transportation,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of Transportation,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Transportation,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps","10,000-50,000"
+Department of Transportation,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Transportation,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,"10,000-50,000"
+Department of Treasury,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,N/A,101-1000
+Department of Treasury,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Treasury,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,N/A,"10,000-50,000"
+Department of Treasury,Prioritizing and categorizing incoming emails using AI.,Y,N/A,101-1000
+Department of Treasury,"Editing images, videos, or other public affairs materials using AI.",Y,N/A,1-100
+Department of Treasury,Scheduling and managing social media posts using AI.,Y,N/A,1-100
+Department of Treasury,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,N/A,"5001-10,000"
+Department of Treasury,Improving the quality of written communications using AI tools.,Y,N/A,"5001-10,000"
+Department of Treasury,Summarizing the key points of a lengthy report using AI.,Y,N/A,"5001-10,000"
+Department of Treasury,Creating visual representations of data sets for reports or presentations using AI.,Y,N/A,101-1000
+Department of Treasury,Using AI-assisted tools in word processors.,Y,N/A,101-1000
+Department of Treasury,Generating code using AI.,Y,N/A,1001-5000
+Department of Treasury,Searching for agency information using a knowledge retrieval system.,Y,N/A,1001-5000
+Department of Treasury,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Treasury,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,N/A,1-100
+Department of Treasury,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of Treasury,Curating news articles and updates based on user preferences using AI.,Y,N/A,1001-5000
+Department of Treasury,Planning travel routes using AI-driven map applications.,Y,N/A,"50,000+"
+Department of Treasury,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Treasury,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,N/A,"10,000-50,000"
+Department of Veterans Affairs,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Veterans Affairs,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Veterans Affairs,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Teams Premium,"5001-10,000"
+Department of Veterans Affairs,Prioritizing and categorizing incoming emails using AI.,N,,
+Department of Veterans Affairs,"Editing images, videos, or other public affairs materials using AI.",N,,
+Department of Veterans Affairs,Scheduling and managing social media posts using AI.,N,,
+Department of Veterans Affairs,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Power Automate AI Builder, Microsoft Dynamics D365 CoPilot, Microsoft Copilot Chat","50,000+"
+Department of Veterans Affairs,Improving the quality of written communications using AI tools.,Y,Grammarly,1-100
+Department of Veterans Affairs,Summarizing the key points of a lengthy report using AI.,Y,"Casepoint AI, Medallia","50,000+"
+Department of Veterans Affairs,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Department of Veterans Affairs,Using AI-assisted tools in word processors.,N,,
+Department of Veterans Affairs,Generating code using AI.,Y,GitHub Copilot,1001-5000
+Department of Veterans Affairs,Searching for agency information using a knowledge retrieval system.,Y,"Westlaw, VA Box",1001-5000
+Department of Veterans Affairs,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Veterans Affairs,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,IT Service Intelligence (Splunk),"10,000-50,000"
+Department of Veterans Affairs,Managing and prioritizing internal service or help desk tickets using AI.,Y,Genesys Cloud CX,"5001-10,000"
+Department of Veterans Affairs,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Veterans Affairs,Planning travel routes using AI-driven map applications.,N,,
+Department of Veterans Affairs,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Veterans Affairs,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Face ID,"50,000+"
+Department of Veteran Affairs-OIG,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Department of Veteran Affairs-OIG,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Department of Veteran Affairs-OIG,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,,
+Department of Veteran Affairs-OIG,Prioritizing and categorizing incoming emails using AI.,Y,,
+Department of Veteran Affairs-OIG,"Editing images, videos, or other public affairs materials using AI.",N,,
+Department of Veteran Affairs-OIG,Scheduling and managing social media posts using AI.,N,,
+Department of Veteran Affairs-OIG,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,ChatGPT,
+Department of Veteran Affairs-OIG,Improving the quality of written communications using AI tools.,N,,
+Department of Veteran Affairs-OIG,Summarizing the key points of a lengthy report using AI.,Y,OpenAI,
+Department of Veteran Affairs-OIG,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Department of Veteran Affairs-OIG,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,
+Department of Veteran Affairs-OIG,Generating code using AI.,Y,Github Copilot,
+Department of Veteran Affairs-OIG,Searching for agency information using a knowledge retrieval system.,Y,VA GPT,
+Department of Veteran Affairs-OIG,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Department of Veteran Affairs-OIG,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Department of Veteran Affairs-OIG,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Department of Veteran Affairs-OIG,Curating news articles and updates based on user preferences using AI.,N,,
+Department of Veteran Affairs-OIG,Planning travel routes using AI-driven map applications.,N,,
+Department of Veteran Affairs-OIG,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Department of Veteran Affairs-OIG,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Environmental Protection Agency,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Environmental Protection Agency,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Microsoft Viva,"10,000-50,000"
+Environmental Protection Agency,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Microsoft365 Copilot, Azure Open AI","10,000-50,000"
+Environmental Protection Agency,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft365 Copilot,1-100
+Environmental Protection Agency,"Editing images, videos, or other public affairs materials using AI.",N,,
+Environmental Protection Agency,Scheduling and managing social media posts using AI.,N,,
+Environmental Protection Agency,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Environmental Protection Agency,Improving the quality of written communications using AI tools.,Y,"Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Environmental Protection Agency,Summarizing the key points of a lengthy report using AI.,Y,"Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Environmental Protection Agency,Creating visual representations of data sets for reports or presentations using AI.,Y,"Azure OpenAI, Microsoft365 Copilot, Qlik Predict","10,000-50,000"
+Environmental Protection Agency,Using AI-assisted tools in word processors.,Y,Microsoft365 Copilot,1-100
+Environmental Protection Agency,Generating code using AI.,Y,"GitHub Copilot, Azure OpenAI, Microsoft365 Copilot","10,000-50,000"
+Environmental Protection Agency,Searching for agency information using a knowledge retrieval system.,Y,"Relativity, Microsoft365 Copilot, Google Search","10,000-50,000"
+Environmental Protection Agency,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Environmental Protection Agency,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Microsoft Purview, Microsoft Defender",
+Environmental Protection Agency,Managing and prioritizing internal service or help desk tickets using AI.,Y,Servicenow Virtual Agent,"10,000-50,000"
+Environmental Protection Agency,Curating news articles and updates based on user preferences using AI.,N,,
+Environmental Protection Agency,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps","10,000-50,000"
+Environmental Protection Agency,Finding and booking travel accommodations using AI-powered platforms.,Y,SAP Concur,"10,000-50,000"
+Environmental Protection Agency,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,Apple iPhone,1001-5000
+Export-Import Bank of the U.S.,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,"Editing images, videos, or other public affairs materials using AI.",Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Scheduling and managing social media posts using AI.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Improving the quality of written communications using AI tools.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Summarizing the key points of a lengthy report using AI.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Creating visual representations of data sets for reports or presentations using AI.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Using AI-assisted tools in word processors.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Generating code using AI.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Searching for agency information using a knowledge retrieval system.,Y,Microsoft M365 Copilot AI,101-1000
+Export-Import Bank of the U.S.,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Export-Import Bank of the U.S.,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Splunk, Crowdstrike, MS Defender, Qualys. Palo Alto ",101-1000
+Export-Import Bank of the U.S.,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Export-Import Bank of the U.S.,Curating news articles and updates based on user preferences using AI.,N,,
+Export-Import Bank of the U.S.,Planning travel routes using AI-driven map applications.,Y,"Apple Maps, Google Maps, Open StreetMap",101-1000
+Export-Import Bank of the U.S.,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Export-Import Bank of the U.S.,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,1-100
+Farm Credit Administration,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Farm Credit Administration,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Farm Credit Administration,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Various,1-100
+Farm Credit Administration,Prioritizing and categorizing incoming emails using AI.,N,,
+Farm Credit Administration,"Editing images, videos, or other public affairs materials using AI.",N,,
+Farm Credit Administration,Scheduling and managing social media posts using AI.,N,,
+Farm Credit Administration,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Various,1-100
+Farm Credit Administration,Improving the quality of written communications using AI tools.,Y,Various,1-100
+Farm Credit Administration,Summarizing the key points of a lengthy report using AI.,Y,Various,1-100
+Farm Credit Administration,Creating visual representations of data sets for reports or presentations using AI.,Y,Various,1-100
+Farm Credit Administration,Using AI-assisted tools in word processors.,Y,Various,1-100
+Farm Credit Administration,Generating code using AI.,N,,
+Farm Credit Administration,Searching for agency information using a knowledge retrieval system.,Y,Various,1-100
+Farm Credit Administration,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Farm Credit Administration,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Various,101-1000
+Farm Credit Administration,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Farm Credit Administration,Curating news articles and updates based on user preferences using AI.,N,,
+Farm Credit Administration,Planning travel routes using AI-driven map applications.,Y,Various,101-1000
+Farm Credit Administration,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Farm Credit Administration,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Various,101-1000
+Federal Communications Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Communications Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,"AWS Q Developer 
+(Gen AI-powered assistant)",1-100
+Federal Communications Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Microsoft Teams
+integrated with 
+Microsoft Copilot",1001-5000
+Federal Communications Commission,Prioritizing and categorizing incoming emails using AI.,N,,
+Federal Communications Commission,"Editing images, videos, or other public affairs materials using AI.",N,,
+Federal Communications Commission,Scheduling and managing social media posts using AI.,N,,
+Federal Communications Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,101-1000
+Federal Communications Commission,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,101-1000
+Federal Communications Commission,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,101-1000
+Federal Communications Commission,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Federal Communications Commission,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+Federal Communications Commission,Generating code using AI.,Y,"Microsoft Copilot, 
+AWS Q Developer, 
+Microsoft Azure Open AI",101-1000
+Federal Communications Commission,Searching for agency information using a knowledge retrieval system.,N,,
+Federal Communications Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Federal Communications Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Microsoft Defender XDR,1001-5000
+Federal Communications Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Federal Communications Commission,Curating news articles and updates based on user preferences using AI.,N,,
+Federal Communications Commission,Planning travel routes using AI-driven map applications.,N,,
+Federal Communications Commission,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Federal Communications Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Federal Deposit Insurance Corporation,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Deposit Insurance Corporation,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Federal Deposit Insurance Corporation,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft teams (Recording),101-1000
+Federal Deposit Insurance Corporation,Prioritizing and categorizing incoming emails using AI.,N,,
+Federal Deposit Insurance Corporation,"Editing images, videos, or other public affairs materials using AI.",Y,"Photoshop, Adobe Premier, Microsoft Paint Limited Copilot","5001-10,000"
+Federal Deposit Insurance Corporation,Scheduling and managing social media posts using AI.,Y,Sprout Social,1-100
+Federal Deposit Insurance Corporation,"Generating first drafts of documents, briefing, or communication materials using AI.",N,,
+Federal Deposit Insurance Corporation,Improving the quality of written communications using AI tools.,Y,Thomas Reuters/Westlaw Drafting Assistant,101-1000
+Federal Deposit Insurance Corporation,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Power BI,"5001-10,000"
+Federal Deposit Insurance Corporation,Creating visual representations of data sets for reports or presentations using AI.,Y,"Microsoft Power BI, Tableau","5001-10,000"
+Federal Deposit Insurance Corporation,Using AI-assisted tools in word processors.,Y,,
+Federal Deposit Insurance Corporation,Generating code using AI.,Y,"GitHub Copilot, Appian",101-1000
+Federal Deposit Insurance Corporation,Searching for agency information using a knowledge retrieval system.,Y,"Relativity Server, Relativity One, Cloudlocker, Microsoft Purview, Rasa",1001-5000
+Federal Deposit Insurance Corporation,Identifying and cataloging items in a storage room using AI-driven image recognition.,Y,,
+Federal Deposit Insurance Corporation,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Falcon EDR, Splunk Clowd, Tenable, Opentext, ServiceNow","5001-10,000"
+Federal Deposit Insurance Corporation,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Federal Deposit Insurance Corporation,Curating news articles and updates based on user preferences using AI.,N,,
+Federal Deposit Insurance Corporation,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps","5001-10,000"
+Federal Deposit Insurance Corporation,Finding and booking travel accommodations using AI-powered platforms.,Y,CWTSatoTravel,1001-5000
+Federal Deposit Insurance Corporation,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,"Apple iPhone, Apple iPad","5001-10,000"
+Federal Energy Regulatory Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Energy Regulatory Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Federal Energy Regulatory Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Federal Energy Regulatory Commission,Prioritizing and categorizing incoming emails using AI.,N,,
+Federal Energy Regulatory Commission,"Editing images, videos, or other public affairs materials using AI.",N,,
+Federal Energy Regulatory Commission,Scheduling and managing social media posts using AI.,N,,
+Federal Energy Regulatory Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft 365 Copilot, Azure Open AI",101-1000
+Federal Energy Regulatory Commission,Improving the quality of written communications using AI tools.,N,,
+Federal Energy Regulatory Commission,Summarizing the key points of a lengthy report using AI.,Y,"Microsoft 365 Copilot, Azure Open AI",101-1000
+Federal Energy Regulatory Commission,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Federal Energy Regulatory Commission,Using AI-assisted tools in word processors.,Y,Microsoft 365 Copilot,101-1000
+Federal Energy Regulatory Commission,Generating code using AI.,Y,GitHub Copilot,1-100
+Federal Energy Regulatory Commission,Searching for agency information using a knowledge retrieval system.,Y,Microsoft 365 Copilot,101-1000
+Federal Energy Regulatory Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Federal Energy Regulatory Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Federal Energy Regulatory Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Federal Energy Regulatory Commission,Curating news articles and updates based on user preferences using AI.,N,,
+Federal Energy Regulatory Commission,Planning travel routes using AI-driven map applications.,Y,Google Maps & Apple Maps,1-100
+Federal Energy Regulatory Commission,Finding and booking travel accommodations using AI-powered platforms.,Y,Concur,101-1000
+Federal Energy Regulatory Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,"Apple iPhone, Samsung",101-1000
+Federal Housing Finance Agency,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Housing Finance Agency,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Federal Housing Finance Agency,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Federal Housing Finance Agency,Prioritizing and categorizing incoming emails using AI.,N,,
+Federal Housing Finance Agency,"Editing images, videos, or other public affairs materials using AI.",N,,
+Federal Housing Finance Agency,Scheduling and managing social media posts using AI.,N,,
+Federal Housing Finance Agency,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft Copilot, Microsoft 365 suite (Teams, SharePoint, Excel, PowerPoint, Word), Apple iOS",101-1000
+Federal Housing Finance Agency,Improving the quality of written communications using AI tools.,N,,
+Federal Housing Finance Agency,Summarizing the key points of a lengthy report using AI.,N,,
+Federal Housing Finance Agency,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Federal Housing Finance Agency,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,1-100
+Federal Housing Finance Agency,Generating code using AI.,N,,
+Federal Housing Finance Agency,Searching for agency information using a knowledge retrieval system.,Y,Microsoft Copilot,1-100
+Federal Housing Finance Agency,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Federal Housing Finance Agency,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Federal Housing Finance Agency,Managing and prioritizing internal service or help desk tickets using AI.,Y,ServiceNow,1-100
+Federal Housing Finance Agency,Curating news articles and updates based on user preferences using AI.,N,,
+Federal Housing Finance Agency,Planning travel routes using AI-driven map applications.,Y,"Apple Maps, Google Maps",101-1000
+Federal Housing Finance Agency,Finding and booking travel accommodations using AI-powered platforms.,Y,SAP Concur,101-1000
+Federal Housing Finance Agency,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,101-1000
+Federal Labor Relations Authority,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Labor Relations Authority,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Federal Labor Relations Authority,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Copilot / Teams,
+Federal Labor Relations Authority,Prioritizing and categorizing incoming emails using AI.,N,,
+Federal Labor Relations Authority,"Editing images, videos, or other public affairs materials using AI.",Y,Vyond,1-100
+Federal Labor Relations Authority,Scheduling and managing social media posts using AI.,N,,
+Federal Labor Relations Authority,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,ChatGPT,1-100
+Federal Labor Relations Authority,Improving the quality of written communications using AI tools.,Y,ChatGPT,1-100
+Federal Labor Relations Authority,Summarizing the key points of a lengthy report using AI.,Y,ChatGPT,1-100
+Federal Labor Relations Authority,Creating visual representations of data sets for reports or presentations using AI.,Y,ChatGPT,1-100
+Federal Labor Relations Authority,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,1-100
+Federal Labor Relations Authority,Generating code using AI.,N,,
+Federal Labor Relations Authority,Searching for agency information using a knowledge retrieval system.,Y,"ChatGPT, Notebook LLM, Gemini",1-100
+Federal Labor Relations Authority,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Federal Labor Relations Authority,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Crowdstrike Falcon, Microsoft Defender",101-1000
+Federal Labor Relations Authority,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Federal Labor Relations Authority,Curating news articles and updates based on user preferences using AI.,Y,Google News Brief,1-100
+Federal Labor Relations Authority,Planning travel routes using AI-driven map applications.,N,,
+Federal Labor Relations Authority,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Federal Labor Relations Authority,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Federal Reserve Board of Governors,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Reserve Board of Governors,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Federal Reserve Board of Governors,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Federal Reserve Board of Governors,Prioritizing and categorizing incoming emails using AI.,N,,
+Federal Reserve Board of Governors,"Editing images, videos, or other public affairs materials using AI.",Y,External- Creative Production Suite,1-100
+Federal Reserve Board of Governors,Scheduling and managing social media posts using AI.,N,,
+Federal Reserve Board of Governors,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"External- Chatbots, Internal Gov Cloud- Chatbots",1001-5000
+Federal Reserve Board of Governors,Improving the quality of written communications using AI tools.,Y,"External- Chatbots, Internal Gov Cloud- Chatbots",1001-5000
+Federal Reserve Board of Governors,Summarizing the key points of a lengthy report using AI.,Y,"External- Chatbots, Internal Gov Cloud- Chatbots",1001-5000
+Federal Reserve Board of Governors,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Federal Reserve Board of Governors,Using AI-assisted tools in word processors.,N,,
+Federal Reserve Board of Governors,Generating code using AI.,Y,"External-Generative Coding Assistant, External- Chatbots, Internal Gov Cloud - Chatbots",1001-5000
+Federal Reserve Board of Governors,Searching for agency information using a knowledge retrieval system.,Y,Internal Gov Cloud- Chatbots,1001-5000
+Federal Reserve Board of Governors,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Federal Reserve Board of Governors,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,External- Cybersecurity Suites,1-100
+Federal Reserve Board of Governors,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Federal Reserve Board of Governors,Curating news articles and updates based on user preferences using AI.,N,,
+Federal Reserve Board of Governors,Planning travel routes using AI-driven map applications.,Y,External- Smartphone OS,1-100
+Federal Reserve Board of Governors,Finding and booking travel accommodations using AI-powered platforms.,Y,External- Government Travel System,101-1000
+Federal Reserve Board of Governors,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,External- Smartphone OS,1001-5000
+Federal Trade Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Federal Trade Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Federal Trade Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,CoPilot,1001-5000
+Federal Trade Commission,Prioritizing and categorizing incoming emails using AI.,Y,CoPilot ,1001-5000
+Federal Trade Commission,"Editing images, videos, or other public affairs materials using AI.",N,,
+Federal Trade Commission,Scheduling and managing social media posts using AI.,N,,
+Federal Trade Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,CoPilot,1001-5000
+Federal Trade Commission,Improving the quality of written communications using AI tools.,N,,
+Federal Trade Commission,Summarizing the key points of a lengthy report using AI.,Y,CoPilot; Relativity Technology Assisted Review,1001-5000
+Federal Trade Commission,Creating visual representations of data sets for reports or presentations using AI.,Y,,
+Federal Trade Commission,Using AI-assisted tools in word processors.,Y,CoPilot,1001-5000
+Federal Trade Commission,Generating code using AI.,Y,Azure Databricks,1-100
+Federal Trade Commission,Searching for agency information using a knowledge retrieval system.,N,,
+Federal Trade Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Federal Trade Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Dtex; KnowBe4; Crowdstrike,1001-5000
+Federal Trade Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Federal Trade Commission,Curating news articles and updates based on user preferences using AI.,N,,
+Federal Trade Commission,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps",1001-5000
+Federal Trade Commission,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Federal Trade Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,iPhones,1001-5000
+General Services Administration,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+General Services Administration,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+General Services Administration,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Gemini for Google Workspace,"10,000-50,000"
+General Services Administration,Prioritizing and categorizing incoming emails using AI.,N,,
+General Services Administration,"Editing images, videos, or other public affairs materials using AI.",Y,Gemini for Google Workspace,"10,000-50,000"
+General Services Administration,Scheduling and managing social media posts using AI.,N,,
+General Services Administration,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Gemini for Google Workspace,"10,000-50,000"
+General Services Administration,Improving the quality of written communications using AI tools.,Y,Gemini for Google Workspace,
+General Services Administration,Summarizing the key points of a lengthy report using AI.,Y,Gemini for Google Workspace,"10,000-50,000"
+General Services Administration,Creating visual representations of data sets for reports or presentations using AI.,Y,Genie in Databricks,101-1000
+General Services Administration,Using AI-assisted tools in word processors.,Y,Gemini for Google Workspace,"10,000-50,000"
+General Services Administration,Generating code using AI.,Y,Github Copilot,101-1000
+General Services Administration,Searching for agency information using a knowledge retrieval system.,Y,"Claude, Meta and Gemini LLM models through USAi","5001-10,000"
+General Services Administration,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+General Services Administration,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+General Services Administration,Managing and prioritizing internal service or help desk tickets using AI.,Y,,
+General Services Administration,Curating news articles and updates based on user preferences using AI.,N,,
+General Services Administration,Planning travel routes using AI-driven map applications.,Y,Google Maps on GFE by individual users,"10,000-50,000"
+General Services Administration,Finding and booking travel accommodations using AI-powered platforms.,N,,
+General Services Administration,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Face recognition for GFE phones,"10,000-50,000"
+Morris K. Udall and Stewart L. Udall Foundation,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Morris K. Udall and Stewart L. Udall Foundation,Prioritizing and categorizing incoming emails using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,"Editing images, videos, or other public affairs materials using AI.",N,,
+Morris K. Udall and Stewart L. Udall Foundation,Scheduling and managing social media posts using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,"Generating first drafts of documents, briefing, or communication materials using AI.",N,,
+Morris K. Udall and Stewart L. Udall Foundation,Improving the quality of written communications using AI tools.,Y,Microsoft CoPilot,1-100
+Morris K. Udall and Stewart L. Udall Foundation,Summarizing the key points of a lengthy report using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Using AI-assisted tools in word processors.,Y,Microsoft CoPilot,1-100
+Morris K. Udall and Stewart L. Udall Foundation,Generating code using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Searching for agency information using a knowledge retrieval system.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Morris K. Udall and Stewart L. Udall Foundation,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Curating news articles and updates based on user preferences using AI.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Planning travel routes using AI-driven map applications.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Morris K. Udall and Stewart L. Udall Foundation,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple,1-100
+National Aeronautics and Space Administration,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+National Aeronautics and Space Administration,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+National Aeronautics and Space Administration,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Teams,1001-5000
+National Aeronautics and Space Administration,Prioritizing and categorizing incoming emails using AI.,N,,
+National Aeronautics and Space Administration,"Editing images, videos, or other public affairs materials using AI.",Y,Adobe Connect,101-1000
+National Aeronautics and Space Administration,Scheduling and managing social media posts using AI.,N,,
+National Aeronautics and Space Administration,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft Copilot, Gemini, Azure",1001-5000
+National Aeronautics and Space Administration,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,1-100
+National Aeronautics and Space Administration,Summarizing the key points of a lengthy report using AI.,Y,"Microsoft Copilot, Gemini, Azure, OpenAI, Box",1001-5000
+National Aeronautics and Space Administration,Creating visual representations of data sets for reports or presentations using AI.,Y,"Azure, Amazon Web Services, Mural",1001-5000
+National Aeronautics and Space Administration,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,1001-5000
+National Aeronautics and Space Administration,Generating code using AI.,Y,"Azure, Alteryx, Microsoft Power Suite, Windsurf",1001-5000
+National Aeronautics and Space Administration,Searching for agency information using a knowledge retrieval system.,Y,Gemini,1-100
+National Aeronautics and Space Administration,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+National Aeronautics and Space Administration,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+National Aeronautics and Space Administration,Managing and prioritizing internal service or help desk tickets using AI.,Y,"Alteryx, Microsoft Power BI","5001-10,000"
+National Aeronautics and Space Administration,Curating news articles and updates based on user preferences using AI.,Y,"Azure, OpenAI",1-100
+National Aeronautics and Space Administration,Planning travel routes using AI-driven map applications.,N,,
+National Aeronautics and Space Administration,Finding and booking travel accommodations using AI-powered platforms.,Y,AWS Bedrock,1-100
+National Aeronautics and Space Administration,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,"5001-10,000"
+National Credit Union Administration,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,Various,1-100
+National Credit Union Administration,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Various,1-100
+National Credit Union Administration,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Various,1-100
+National Credit Union Administration,Prioritizing and categorizing incoming emails using AI.,N,,
+National Credit Union Administration,"Editing images, videos, or other public affairs materials using AI.",Y,Various,1-100
+National Credit Union Administration,Scheduling and managing social media posts using AI.,N,,
+National Credit Union Administration,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Various,1-100
+National Credit Union Administration,Improving the quality of written communications using AI tools.,Y,Various,1-100
+National Credit Union Administration,Summarizing the key points of a lengthy report using AI.,Y,Various,1-100
+National Credit Union Administration,Creating visual representations of data sets for reports or presentations using AI.,Y,Various,1-100
+National Credit Union Administration,Using AI-assisted tools in word processors.,Y,Various,1-100
+National Credit Union Administration,Generating code using AI.,Y,Various,1-100
+National Credit Union Administration,Searching for agency information using a knowledge retrieval system.,Y,Various,1-100
+National Credit Union Administration,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+National Credit Union Administration,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Various,1-100
+National Credit Union Administration,Managing and prioritizing internal service or help desk tickets using AI.,Y,Various,1-100
+National Credit Union Administration,Curating news articles and updates based on user preferences using AI.,N,,
+National Credit Union Administration,Planning travel routes using AI-driven map applications.,N,,
+National Credit Union Administration,Finding and booking travel accommodations using AI-powered platforms.,N,,
+National Credit Union Administration,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Various,101-1000
+National Endowment of the Arts,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,Microsoft CoPilot,101-1000
+National Endowment of the Arts,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+National Endowment of the Arts,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft CoPilot,101-1000
+National Endowment of the Arts,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft CoPilot,101-1000
+National Endowment of the Arts,"Editing images, videos, or other public affairs materials using AI.",Y,Adobe Firefly,1-100
+National Endowment of the Arts,Scheduling and managing social media posts using AI.,N,,
+National Endowment of the Arts,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft CoPilot, ChatGPT",101-1000
+National Endowment of the Arts,Improving the quality of written communications using AI tools.,Y,Grammarly,1-100
+National Endowment of the Arts,Summarizing the key points of a lengthy report using AI.,Y,"Microsoft CoPilot, ChatGPT",101-1000
+National Endowment of the Arts,Creating visual representations of data sets for reports or presentations using AI.,Y,"Microsoft CoPilot, ChatGPT",101-1000
+National Endowment of the Arts,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+National Endowment of the Arts,Generating code using AI.,Y,Github Copilot,1-100
+National Endowment of the Arts,Searching for agency information using a knowledge retrieval system.,Y,Microsoft Copilot,101-1000
+National Endowment of the Arts,Identifying and cataloging items in a storage room using AI-driven image recognition.,Y,Google Lens,1-100
+National Endowment of the Arts,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Microsoft defender,101-1000
+National Endowment of the Arts,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+National Endowment of the Arts,Curating news articles and updates based on user preferences using AI.,Y,Google News Brief,1-100
+National Endowment of the Arts,Planning travel routes using AI-driven map applications.,Y,Googel Maps,1-100
+National Endowment of the Arts,Finding and booking travel accommodations using AI-powered platforms.,N,,
+National Endowment of the Arts,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+National Endowment for the Humanities,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+National Endowment for the Humanities,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,"Editing images, videos, or other public affairs materials using AI.",N,,
+National Endowment for the Humanities,Scheduling and managing social media posts using AI.,N,,
+National Endowment for the Humanities,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,Summarizing the key points of a lengthy report using AI.,Y,"Microsoft Copilot, Azure OpenAI",1-100
+National Endowment for the Humanities,Creating visual representations of data sets for reports or presentations using AI.,N,,
+National Endowment for the Humanities,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,Generating code using AI.,N,,
+National Endowment for the Humanities,Searching for agency information using a knowledge retrieval system.,Y,Microsoft Copilot,1-100
+National Endowment for the Humanities,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+National Endowment for the Humanities,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+National Endowment for the Humanities,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+National Endowment for the Humanities,Curating news articles and updates based on user preferences using AI.,N,,
+National Endowment for the Humanities,Planning travel routes using AI-driven map applications.,N,,
+National Endowment for the Humanities,Finding and booking travel accommodations using AI-powered platforms.,N,,
+National Endowment for the Humanities,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+National Indian Gaming Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+National Indian Gaming Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+National Indian Gaming Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+National Indian Gaming Commission,Prioritizing and categorizing incoming emails using AI.,N,,
+National Indian Gaming Commission,"Editing images, videos, or other public affairs materials using AI.",Y,Adobe Photoshop AI (AI Plugin) Artic,1-100
+National Indian Gaming Commission,Scheduling and managing social media posts using AI.,N,,
+National Indian Gaming Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",N,,
+National Indian Gaming Commission,Improving the quality of written communications using AI tools.,N,,
+National Indian Gaming Commission,Summarizing the key points of a lengthy report using AI.,N,,
+National Indian Gaming Commission,Creating visual representations of data sets for reports or presentations using AI.,N,,
+National Indian Gaming Commission,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,1-100
+National Indian Gaming Commission,Generating code using AI.,N,,
+National Indian Gaming Commission,Searching for agency information using a knowledge retrieval system.,N,,
+National Indian Gaming Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+National Indian Gaming Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+National Indian Gaming Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+National Indian Gaming Commission,Curating news articles and updates based on user preferences using AI.,Y,Law360 (Lexis Nexis),1-100
+National Indian Gaming Commission,Planning travel routes using AI-driven map applications.,N,,
+National Indian Gaming Commission,Finding and booking travel accommodations using AI-powered platforms.,N,,
+National Indian Gaming Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+National Labor Relations Board,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+National Labor Relations Board,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+National Labor Relations Board,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+National Labor Relations Board,Prioritizing and categorizing incoming emails using AI.,N,,
+National Labor Relations Board,"Editing images, videos, or other public affairs materials using AI.",N,,
+National Labor Relations Board,Scheduling and managing social media posts using AI.,N,,
+National Labor Relations Board,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"CoPilot, Westlaw",1-100
+National Labor Relations Board,Improving the quality of written communications using AI tools.,Y,"CoPilot, Westlaw",1-100
+National Labor Relations Board,Summarizing the key points of a lengthy report using AI.,Y,"CoPilot, Westlaw",1-100
+National Labor Relations Board,Creating visual representations of data sets for reports or presentations using AI.,N,,
+National Labor Relations Board,Using AI-assisted tools in word processors.,Y,CoPilot,1-100
+National Labor Relations Board,Generating code using AI.,Y,GitHub CoPilot,1-100
+National Labor Relations Board,Searching for agency information using a knowledge retrieval system.,Y,CoPilot,1-100
+National Labor Relations Board,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+National Labor Relations Board,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+National Labor Relations Board,Managing and prioritizing internal service or help desk tickets using AI.,Y,"CoPilot, ServiceNow",1-100
+National Labor Relations Board,Curating news articles and updates based on user preferences using AI.,N,,
+National Labor Relations Board,Planning travel routes using AI-driven map applications.,N,,
+National Labor Relations Board,Finding and booking travel accommodations using AI-powered platforms.,N,,
+National Labor Relations Board,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+National Transportation Safety Board,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+National Transportation Safety Board,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Viva Insights,1-100
+National Transportation Safety Board,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Microsoft Teams, Microsoft Copilot, Zoom",101-1000
+National Transportation Safety Board,Prioritizing and categorizing incoming emails using AI.,Y,,101-1000
+National Transportation Safety Board,"Editing images, videos, or other public affairs materials using AI.",Y,Adobe Suite,1-100
+National Transportation Safety Board,Scheduling and managing social media posts using AI.,Y,Sprout Social,1-100
+National Transportation Safety Board,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,101-1000
+National Transportation Safety Board,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,101-1000
+National Transportation Safety Board,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,101-1000
+National Transportation Safety Board,Creating visual representations of data sets for reports or presentations using AI.,N,,
+National Transportation Safety Board,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+National Transportation Safety Board,Generating code using AI.,Y,"GitHub Copilot, Power Automate",101-1000
+National Transportation Safety Board,Searching for agency information using a knowledge retrieval system.,Y,Microsoft Copilot,101-1000
+National Transportation Safety Board,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+National Transportation Safety Board,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+National Transportation Safety Board,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+National Transportation Safety Board,Curating news articles and updates based on user preferences using AI.,Y,"Meltwater, Google News",1-100
+National Transportation Safety Board,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps, Waze",101-1000
+National Transportation Safety Board,Finding and booking travel accommodations using AI-powered platforms.,N,,
+National Transportation Safety Board,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,101-1000
+Occupational Safety and Health Review Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Occupational Safety and Health Review Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Occupational Safety and Health Review Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Occupational Safety and Health Review Commission,Prioritizing and categorizing incoming emails using AI.,N,,
+Occupational Safety and Health Review Commission,"Editing images, videos, or other public affairs materials using AI.",Y,Microsoft 365 apps,1-100
+Occupational Safety and Health Review Commission,Scheduling and managing social media posts using AI.,N,,
+Occupational Safety and Health Review Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",N,,
+Occupational Safety and Health Review Commission, Improving the quality of written communications using AI tools.,Y,Microsoft 365 apps,1-100
+Occupational Safety and Health Review Commission,Summarizing the key points of a lengthy report using AI.,N,,
+Occupational Safety and Health Review Commission,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Occupational Safety and Health Review Commission,Using AI-assisted tools in word processors.,Y,Microsoft 365 apps,1-100
+Occupational Safety and Health Review Commission,Generating code using AI.,N,,
+Occupational Safety and Health Review Commission,Searching for agency information using a knowledge retrieval system.,N,,
+Occupational Safety and Health Review Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Occupational Safety and Health Review Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Microsoft Defender
+Crowdstrike Falcon",1-100
+Occupational Safety and Health Review Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Occupational Safety and Health Review Commission,Curating news articles and updates based on user preferences using AI.,N,,
+Occupational Safety and Health Review Commission,Planning travel routes using AI-driven map applications.,N,,
+Occupational Safety and Health Review Commission,Finding and booking travel accommodations using AI-powered platforms.,Y,SAP Concur,1-100
+Occupational Safety and Health Review Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Office of Personnel Management,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,,,
+Office of Personnel Management,Logging and analyzing time spent on tasks using AI-powered time management tools.,,,
+Office of Personnel Management,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",,,
+Office of Personnel Management,Prioritizing and categorizing incoming emails using AI.,,,
+Office of Personnel Management,"Editing images, videos, or other public affairs materials using AI.",,,
+Office of Personnel Management,Scheduling and managing social media posts using AI.,,,
+Office of Personnel Management,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Grok, MS Copilot, OpenAI ChatGPT",
+Office of Personnel Management,Improving the quality of written communications using AI tools.,,,
+Office of Personnel Management,Summarizing the key points of a lengthy report using AI.,,,
+Office of Personnel Management,Creating visual representations of data sets for reports or presentations using AI.,,,
+Office of Personnel Management,Using AI-assisted tools in word processors.,,,
+Office of Personnel Management,Generating code using AI.,Y,Codex,
+Office of Personnel Management,Searching for agency information using a knowledge retrieval system.,,,
+Office of Personnel Management,Identifying and cataloging items in a storage room using AI-driven image recognition.,,,
+Office of Personnel Management,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"MS Defender, Wiz",
+Office of Personnel Management,Managing and prioritizing internal service or help desk tickets using AI.,Y,Zendesk,
+Office of Personnel Management,Curating news articles and updates based on user preferences using AI.,,,
+Office of Personnel Management,Planning travel routes using AI-driven map applications.,,,
+Office of Personnel Management,Finding and booking travel accommodations using AI-powered platforms.,,,
+Office of Personnel Management,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,,,
+Pension Benefit Guaranty Corporation,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Pension Benefit Guaranty Corporation,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Pension Benefit Guaranty Corporation,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Teams Premium (with intelligent meeting recap),101-1000
+Pension Benefit Guaranty Corporation,Prioritizing and categorizing incoming emails using AI.,N,,
+Pension Benefit Guaranty Corporation,"Editing images, videos, or other public affairs materials using AI.",N,,
+Pension Benefit Guaranty Corporation,Scheduling and managing social media posts using AI.,N,,
+Pension Benefit Guaranty Corporation,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,1001-5000
+Pension Benefit Guaranty Corporation, Improving the quality of written communications using AI tools.,N,,
+Pension Benefit Guaranty Corporation,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,1-100
+Pension Benefit Guaranty Corporation,Creating visual representations of data sets for reports or presentations using AI.,N,,
+Pension Benefit Guaranty Corporation,Using AI-assisted tools in word processors.,N,,
+Pension Benefit Guaranty Corporation,Generating code using AI.,N,,
+Pension Benefit Guaranty Corporation,Searching for agency information using a knowledge retrieval system.,N,,
+Pension Benefit Guaranty Corporation,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Pension Benefit Guaranty Corporation,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,Zscaler,1-100
+Pension Benefit Guaranty Corporation,Managing and prioritizing internal service or help desk tickets using AI.,Y,ServiceNow (Now Assist),101-1000
+Pension Benefit Guaranty Corporation,Curating news articles and updates based on user preferences using AI.,N,,
+Pension Benefit Guaranty Corporation,Planning travel routes using AI-driven map applications.,Y,Native map applications on mobile devices,101-1000
+Pension Benefit Guaranty Corporation,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Pension Benefit Guaranty Corporation,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+Securities and Exchange Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Securities and Exchange Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Securities and Exchange Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"YouTube Live, Microsoft Teams
+auto caption, WebEx auto caption",1-100
+Securities and Exchange Commission,Prioritizing and categorizing incoming emails using AI.,N,,
+Securities and Exchange Commission,"Editing images, videos, or other public affairs materials using AI.",Y,"Vyond for Government, Adobe 
+Firefly, Audiate, Snagit, Davinci Resolve",101-1000
+Securities and Exchange Commission,Scheduling and managing social media posts using AI.,N,,
+Securities and Exchange Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft Copilot 365, Vyond
+for Government","5001-10,000"
+Securities and Exchange Commission,Improving the quality of written communications using AI tools.,Y,"Microsoft Copilot Studio,
+Microsoft Copilot 365, Systran Translate Server, Bravozone","5001-10,000"
+Securities and Exchange Commission,Summarizing the key points of a lengthy report using AI.,Y,"VAO Ally, Intelligize+ AI, 
+Microsoft Copilot 365, Bloomberg Government, 
+Bloomberg Law, Google AI
+Mode, Flashpoint Ignite AI, Flashpoint Echosec AI, Magnet Copilot","5001-10,000"
+Securities and Exchange Commission,Creating visual representations of data sets for reports or presentations using AI.,Y,Alteryx,1-100
+Securities and Exchange Commission,Using AI-assisted tools in word processors.,Y,"Microsoft Copilot 365,
+Microsoft Copilot Studio","5001-10,000"
+Securities and Exchange Commission,Generating code using AI.,Y,"GitHub Copilot, TOAD AIExplain",101-1000
+Securities and Exchange Commission,Searching for agency information using a knowledge retrieval system.,Y,"ServiceNow HR Service Delivery,
+Microsoft Copilot 365, Magnet Copilot","5001-10,000"
+Securities and Exchange Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Securities and Exchange Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"HackerOne in-platform AI,
+NetApp ARP/AI",1-100
+Securities and Exchange Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Securities and Exchange Commission,Curating news articles and updates based on user preferences using AI.,Y,,101-1000
+Securities and Exchange Commission,Planning travel routes using AI-driven map applications.,Y,Apple Maps,"5001-10,000"
+Securities and Exchange Commission,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Securities and Exchange Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,"5001-10,000"
+Small Business Administration,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,Y,Microsoft CoPilot,"5001-10,000"
+Small Business Administration,Logging and analyzing time spent on tasks using AI-powered time management tools.,Y,Perplexity,1-100
+Small Business Administration,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Copilot ,"5001-10,000"
+Small Business Administration,Prioritizing and categorizing incoming emails using AI.,Y,Perplexity,1-100
+Small Business Administration,"Editing images, videos, or other public affairs materials using AI.",N,,
+Small Business Administration,Scheduling and managing social media posts using AI.,Y,Sprout Social,1-100
+Small Business Administration,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"Microsoft CoPilot, Perplexity, Gemini","5001-10,000"
+Small Business Administration,Improving the quality of written communications using AI tools.,Y,"Grammarly, Microsoft CoPilot, Perplexity, Gemini","5001-10,000"
+Small Business Administration,Summarizing the key points of a lengthy report using AI.,Y,"Perplexity, Gemini",1-100
+Small Business Administration,Creating visual representations of data sets for reports or presentations using AI.,Y,"Perplexity, Tableau AI",1-100
+Small Business Administration,Using AI-assisted tools in word processors.,Y,"Microsoft CoPilot, Perplexity, Gemini","5001-10,000"
+Small Business Administration,Generating code using AI.,Y,"Github CoPilot, Amazon Q Developer, Perplexity",1-100
+Small Business Administration,Searching for agency information using a knowledge retrieval system.,Y,"Microsoft CoPilot, Perplexity, Gemini, Salesforce Einstein","5001-10,000"
+Small Business Administration,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Small Business Administration,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Microsoft Defender, SentinelOne, Wiz, Traceable","5001-10,000"
+Small Business Administration,Managing and prioritizing internal service or help desk tickets using AI.,Y,ServiceNow AIOps,"5001-10,000"
+Small Business Administration,Curating news articles and updates based on user preferences using AI.,Y,Meltwater,1-100
+Small Business Administration,Planning travel routes using AI-driven map applications.,Y,Apple Maps,1001-5000
+Small Business Administration,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Small Business Administration,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,1001-5000
+Surface Transportation Board,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Surface Transportation Board,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Surface Transportation Board,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+Surface Transportation Board,Prioritizing and categorizing incoming emails using AI.,Y,Copilot for MS 365,101-1000
+Surface Transportation Board,"Editing images, videos, or other public affairs materials using AI.",N,,
+Surface Transportation Board,Scheduling and managing social media posts using AI.,N,,
+Surface Transportation Board,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Copilot for MS 365,101-1000
+Surface Transportation Board,Improving the quality of written communications using AI tools.,Y,Copilot for MS 365,101-1000
+Surface Transportation Board,Summarizing the key points of a lengthy report using AI.,Y,Copilot for MS 365,101-1000
+Surface Transportation Board,Creating visual representations of data sets for reports or presentations using AI.,Y,Copilot for MS 365,101-1000
+Surface Transportation Board,Using AI-assisted tools in word processors.,Y,Copilot for MS 365,101-1000
+Surface Transportation Board,Generating code using AI.,N,,
+Surface Transportation Board,Searching for agency information using a knowledge retrieval system.,Y,Copilot for MS 365,101-1000
+Surface Transportation Board,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Surface Transportation Board,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Surface Transportation Board,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+Surface Transportation Board,Curating news articles and updates based on user preferences using AI.,N,,
+Surface Transportation Board,Planning travel routes using AI-driven map applications.,Y,Apple iPhone,101-1000
+Surface Transportation Board,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Surface Transportation Board,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,101-1000
+Tennessee Valley Authority,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+Tennessee Valley Authority,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+Tennessee Valley Authority,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Copilot,101-1000
+Tennessee Valley Authority,Prioritizing and categorizing incoming emails using AI.,Y,Microsoft Copilot,101-1000
+Tennessee Valley Authority,"Editing images, videos, or other public affairs materials using AI.",N,,
+Tennessee Valley Authority,Scheduling and managing social media posts using AI.,N,,
+Tennessee Valley Authority,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,101-1000
+Tennessee Valley Authority,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,101-1000
+Tennessee Valley Authority,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,101-1000
+Tennessee Valley Authority,Creating visual representations of data sets for reports or presentations using AI.,Y,Microsoft Copilot,
+Tennessee Valley Authority,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+Tennessee Valley Authority,Generating code using AI.,Y,"Github Copilot, AWS Q",
+Tennessee Valley Authority,Searching for agency information using a knowledge retrieval system.,Y,"Microsoft CoPilot, ServiceNow, Dataiku",
+Tennessee Valley Authority,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+Tennessee Valley Authority,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+Tennessee Valley Authority,Managing and prioritizing internal service or help desk tickets using AI.,Y,"Amazon Connect, ServiceNow",
+Tennessee Valley Authority,Curating news articles and updates based on user preferences using AI.,N,,
+Tennessee Valley Authority,Planning travel routes using AI-driven map applications.,N,,
+Tennessee Valley Authority,Finding and booking travel accommodations using AI-powered platforms.,N,,
+Tennessee Valley Authority,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+United States Election Assistance Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+United States Election Assistance Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+United States Election Assistance Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"Zoom, Teams",1-100
+United States Election Assistance Commission,Prioritizing and categorizing incoming emails using AI.,Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,"Editing images, videos, or other public affairs materials using AI.",Y,"ChatGPT, Claude, Copilot",1-100
+United States Election Assistance Commission,Scheduling and managing social media posts using AI.,N,,
+United States Election Assistance Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,Improving the quality of written communications using AI tools.,Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,Summarizing the key points of a lengthy report using AI.,Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,Creating visual representations of data sets for reports or presentations using AI.,Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,Using AI-assisted tools in word processors.,Y,"Grammarly, Copilot",1-100
+United States Election Assistance Commission,Generating code using AI.,Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,Searching for agency information using a knowledge retrieval system.,Y,Copilot,1-100
+United States Election Assistance Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+United States Election Assistance Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Crowdstrike Falcon, Microsoft Defender, Copilot",1-100
+United States Election Assistance Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+United States Election Assistance Commission,Curating news articles and updates based on user preferences using AI.,Y,"ChatGPT, Claude, Copilot, Perplexity",1-100
+United States Election Assistance Commission,Planning travel routes using AI-driven map applications.,Y,"Google Maps, Apple Maps",1-100
+United States Election Assistance Commission,Finding and booking travel accommodations using AI-powered platforms.,Y,SAP Concur,1-100
+United States Election Assistance Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,1-100
+United States International Trade Commission,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+United States International Trade Commission,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+United States International Trade Commission,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,"M365 Copilot, Teams",1-100
+United States International Trade Commission,Prioritizing and categorizing incoming emails using AI.,Y,M365 Copilot,1-100
+United States International Trade Commission,"Editing images, videos, or other public affairs materials using AI.",Y,M365 Copilot,1-100
+United States International Trade Commission,Scheduling and managing social media posts using AI.,N,,
+United States International Trade Commission,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,M365 Copilot,1-100
+United States International Trade Commission,Improving the quality of written communications using AI tools.,Y,M365 Copilot,1-100
+United States International Trade Commission,Summarizing the key points of a lengthy report using AI.,Y,M365 Copilot,1-100
+United States International Trade Commission,Creating visual representations of data sets for reports or presentations using AI.,Y,M365 Copilot,1-100
+United States International Trade Commission,Using AI-assisted tools in word processors.,Y,M365 Copilot,1-100
+United States International Trade Commission,Generating code using AI.,Y,M365 Copilot,1-100
+United States International Trade Commission,Searching for agency information using a knowledge retrieval system.,Y,M365 Copilot,1-100
+United States International Trade Commission,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+United States International Trade Commission,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+United States International Trade Commission,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+United States International Trade Commission,Curating news articles and updates based on user preferences using AI.,Y,Meltwater,1-100
+United States International Trade Commission,Planning travel routes using AI-driven map applications.,N,,
+United States International Trade Commission,Finding and booking travel accommodations using AI-powered platforms.,Y,SAP Concur,1-100
+United States International Trade Commission,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,N,,
+United States Office of Special Counsel,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+United States Office of Special Counsel,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+United States Office of Special Counsel,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",Y,Microsoft Copilot,101-1000
+United States Office of Special Counsel,Prioritizing and categorizing incoming emails using AI.,N,,
+United States Office of Special Counsel,"Editing images, videos, or other public affairs materials using AI.",N,,
+United States Office of Special Counsel,Scheduling and managing social media posts using AI.,N,,
+United States Office of Special Counsel,"Generating first drafts of documents, briefing, or communication materials using AI.",Y,Microsoft Copilot,101-1000
+United States Office of Special Counsel,Improving the quality of written communications using AI tools.,Y,Microsoft Copilot,101-1000
+United States Office of Special Counsel,Summarizing the key points of a lengthy report using AI.,Y,Microsoft Copilot,101-1000
+United States Office of Special Counsel,Creating visual representations of data sets for reports or presentations using AI.,N,,
+United States Office of Special Counsel,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+United States Office of Special Counsel,Generating code using AI.,N,,
+United States Office of Special Counsel,Searching for agency information using a knowledge retrieval system.,N,,
+United States Office of Special Counsel,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+United States Office of Special Counsel,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",N,,
+United States Office of Special Counsel,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+United States Office of Special Counsel,Curating news articles and updates based on user preferences using AI.,N,,
+United States Office of Special Counsel,Planning travel routes using AI-driven map applications.,N,,
+United States Office of Special Counsel,Finding and booking travel accommodations using AI-powered platforms.,N,,
+United States Office of Special Counsel,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,Apple iPhone,1-100
+United States Trade and Development Agency,Scheduling internal-to-government meetings or appointments or setting reminders using AI.,N,,
+United States Trade and Development Agency,Logging and analyzing time spent on tasks using AI-powered time management tools.,N,,
+United States Trade and Development Agency,"Transcribing, summarizing, or other efforts that improve the accessibility of a virtual meeting or interview using AI.",N,,
+United States Trade and Development Agency,Prioritizing and categorizing incoming emails using AI.,N,,
+United States Trade and Development Agency,"Editing images, videos, or other public affairs materials using AI.",N,,
+United States Trade and Development Agency,Scheduling and managing social media posts using AI.,N,,
+United States Trade and Development Agency,"Generating first drafts of documents, briefing, or communication materials using AI.",N,,
+United States Trade and Development Agency,Improving the quality of written communications using AI tools.,N,,
+United States Trade and Development Agency,Summarizing the key points of a lengthy report using AI.,N,,
+United States Trade and Development Agency,Creating visual representations of data sets for reports or presentations using AI.,N,,
+United States Trade and Development Agency,Using AI-assisted tools in word processors.,Y,Microsoft Copilot,101-1000
+United States Trade and Development Agency,Generating code using AI.,N,,
+United States Trade and Development Agency,Searching for agency information using a knowledge retrieval system.,N,,
+United States Trade and Development Agency,Identifying and cataloging items in a storage room using AI-driven image recognition.,N,,
+United States Trade and Development Agency,"Managing or implementing security controls for information systems (e.g., cybersecurity) using AI",Y,"Crowdstrike Falcon Threat Detection and Response, Qualys Cloud Detection and Response",101-1000
+United States Trade and Development Agency,Managing and prioritizing internal service or help desk tickets using AI.,N,,
+United States Trade and Development Agency,Curating news articles and updates based on user preferences using AI.,N,,
+United States Trade and Development Agency,Planning travel routes using AI-driven map applications.,N,,
+United States Trade and Development Agency,Finding and booking travel accommodations using AI-powered platforms.,N,,
+United States Trade and Development Agency,Unlocking smartphones or other devices without the need for passwords or PINs using AI-based facial recognition technology.,Y,"Apple iPhone, Lookout for mobile security",1-100
