@@ -1,0 +1,836 @@
+{
+    "id": {
+        "column_order_in_original_excel": 0,
+        "excel_header": "Use Case ID\n\n[Agency Abbrev.] – [#]",
+        "recoding_map": null,
+        "instructions": "Unique identifier for AI use case. Use cases should maintain the same ID if included in previous year's inventory. However, in their public inventories, agencies are permitted to remove the \"Use Case ID\" column. Required: Yes",
+        "data_type": "structured_text",
+        "description": "Unique identifier for the use case"
+    },
+    "use_case_name": {
+        "column_order_in_original_excel": 1,
+        "excel_header": "Use Case Name",
+        "recoding_map": null,
+        "instructions": "Title of the AI use case. Required: Yes",
+        "data_type": "free_text",
+        "description": "Use Case name"
+    },
+    "agency_bureau": {
+        "column_order_in_original_excel": 2,
+        "excel_header": "Bureau/Component",
+        "recoding_map": null,
+        "instructions": "Specific organization(s) within the agency responsible for the AI use case. Required: Yes",
+        "data_type": "free_text",
+        "description": "Reporting Bureau/Component within Agency"
+    },
+    "contact_email": {
+        "column_order_in_original_excel": 3,
+        "excel_header": "Email Address",
+        "instructions": "Email address of the individual or team who works with or is responsible for the AI use case. However, in their public inventories, agencies may replace the \"Email Address\" column with an email address designated for public inquiries. Required: Yes",
+        "data_type": "free_text",
+        "description": "Email Address for Point of Contact"
+    },
+    "is_withheld": {
+        "column_order_in_original_excel": 4,
+        "excel_header": "Should this AI use case be withheld from public reporting?",
+        "recoding_map": {
+            "a) No": [
+                "No"
+            ],
+            "b) Yes – agency has determined that there’s a risk to disclosure, such as a harm to an interest protected by a FOIA exemption": [
+                "Yes – agency has determined that there’s a risk to disclosure, such as a harm to an interest protected by a FOIA exemption"
+            ],
+            "c) Yes – disclosure is prohibited by law": [
+                "Yes – disclosure is prohibited by law\""
+            ],
+            "d) Other": [
+                "Other"
+            ]
+        },
+        "instructions": "Whether the AI use case should be withheld from public reporting and the reason for why. Required: Yes",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) No",
+            "b) Yes – agency has determined that there’s a risk to disclosure, such as a harm to an interest protected by a FOIA exemption",
+            "c) Yes – disclosure is prohibited by law",
+            "d) Other"
+        ],
+        "short_hand_recodings": {
+            "a) No": "No",
+            "b) Yes – agency has determined that there’s a risk to disclosure, such as a harm to an interest protected by a FOIA exemption": "Yes - Disclosure Risk",
+            "c) Yes – disclosure is prohibited by law": "Yes - Prohibited by Law",
+            "d) Other": "Other"
+        },
+        "description": "Flag for public visibility"
+    },
+    "development_stage": {
+        "column_order_in_original_excel": 5,
+        "excel_header": "Stage of Development",
+        "recoding_map": {
+            "a) Pre-deployment – The use case is in a development or acquisition status.": [
+                "pre-deployment - the use case is in a development or acquisition status",
+                "pre-deployment",
+                "Acquisition and/or Development",
+                "a) a) Pre-deployment – The use case is in a development or acquisition status.",
+                "a) Pre-deployment ñ The use case is in a development or acquisition status."
+            ],
+            "b) Pilot – The use case has been deployed in a limited test or pilot capacity.": [
+                "b)  Pilot – The use case has been deployed in a limited test or pilot capacity.",
+                "b)  b)  Pilot – The use case has been deployed in a limited test or pilot capacity.",
+                "pilot - the use case has been deployed in a limited test or pilot capacity",
+                "pilot",
+                "Initiated",
+                "b)  Pilot ñ The use case has been deployed in a limited test or pilot capacity."
+            ],
+            "c) Deployed – The use case is being actively authorized or utilized to support the functions or mission of an agency.": [
+                "c)  Deployed – The use case is being actively authorized or utilized to support the functions or mission of an agency.",
+                "deployed - the use case is being actively authorized or utilized to support the functions or mission of an agency",
+                "deployed",
+                "Operation and Maintenance",
+                "c)  Deployed ñ The use case is being actively authorized or utilized to support the functions or mission of an agency."
+            ],
+            "d) Retired – The use case was reported in the agency’s prior year’s inventory, but its development and/or use has since been discontinued.": [
+                "d) Retired – The use case was reported in the agency's prior year's inventory, but its development and/or use has since been discontinued.",
+                "retired",
+                "d) Retired ñ The use case was reported in the agencyís prior yearís inventory, but its development and/or use has since been discontinued."
+            ]
+        },
+        "instructions": "The AI use case's current stage of development. Required: Yes",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Pre-deployment – The use case is in a development or acquisition status.",
+            "b) Pilot – The use case has been deployed in a limited test or pilot capacity.",
+            "c) Deployed – The use case is being actively authorized or utilized to support the functions or mission of an agency.",
+            "d) Retired – The use case was reported in the agency’s prior year’s inventory, but its development and/or use has since been discontinued."
+        ],
+        "short_hand_recodings": {
+            "a) Pre-deployment – The use case is in a development or acquisition status.": "Pre-deployment",
+            "b) Pilot – The use case has been deployed in a limited test or pilot capacity.": "Pilot",
+            "c) Deployed – The use case is being actively authorized or utilized to support the functions or mission of an agency.": "Deployed",
+            "d) Retired – The use case was reported in the agency’s prior year’s inventory, but its development and/or use has since been discontinued.": "Retired"
+        },
+        "description": "Current status of the project"
+    },
+    "is_high_impact": {
+        "column_order_in_original_excel": 6,
+        "excel_header": "Is the AI use case high-impact?",
+        "recoding_map": {
+            "b) Presumed high-impact, but determined not high impact": [
+                "Presumed high-impact, but determined not high impact",
+                "b) Presumed high-impact but determined not high-impact"
+            ],
+            "c) Not high-impact": [
+                "Not high-impact",
+                "no"
+            ],
+            "a) High-impact": [
+                "High-impact",
+                "yes"
+            ]
+        },
+        "instructions": "Whether the AI use case is high-impact, as defined in Section 5 of the appendix to OMB Memorandum M-25-21. Required: Yes",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) High-impact",
+            "b) Presumed high-impact, but determined not high impact",
+            "c) Not high-impact"
+        ],
+        "short_hand_recodings": {
+            "a) High-impact": "High-impact",
+            "b) Presumed high-impact, but determined not high impact": "Presumed High-Impact, but Not High-impact",
+            "c) Not high-impact": "Not High-impact"
+        },
+        "description": "High impact designation flag"
+    },
+    "HI_justification": {
+        "column_order_in_original_excel": 7,
+        "excel_header": "Justification",
+        "instructions": "Provide a justification for why the use case is determined to be not high-impact. Required: Yes, but question should only appear if \"Presumed high-impact, but determined not high-impact\" is selected for the previous question.",
+        "data_type": "free_text",
+        "description": "Justification for high impact classification"
+    },
+    "topic_area": {
+        "column_order_in_original_excel": 8,
+        "excel_header": "Use Case Topic Area",
+        "recoding_map": {
+            "Energy and the Environment": [
+                "Energy & the Environment"
+            ],
+            "Health and Medical": [
+                "Health & Medical"
+            ],
+            "Procurement and Financial Management": [
+                "Procurement & Financial Management"
+            ],
+            "Cybersecurity": [
+                "Cybersecurity Operations"
+            ],
+            "Administrative Functions": [
+                "Internal Knowledge Management & Staff Support",
+                "Admin Functions"
+            ],
+            "Service Delivery": [
+                "Communications & Public Affairs",
+                "Strategic Planning & Policy Analysis",
+                "Customer Service & Public Engagement",
+                "Audit, Compliance & Risk Management",
+                "Employee Productivity & Collaboration",
+                "Business Development & Technical Assistance",
+                "Loan Program Operations",
+                "Records Management",
+                "This potentially crosses all EPA business lines",
+                "eDiscovery matters"
+            ],
+            "Information Technology": [
+                "Software Development & Engineering",
+                "IT Operations & Infrastructure Management",
+                "Data Analytics & Business Intelligence"
+            ],
+            "Other – Economic & Financial": [
+                "Other  – Economic & Financial"
+            ]
+        },
+        "instructions": "The topic area that most closely aligns with the AI use case. Required: Yes, for pre-deployment, pilot and deployed use cases.",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "Administrative Functions",
+            "Cybersecurity",
+            "Emergency Management",
+            "Energy and the Environment",
+            "Government Benefits Processing",
+            "Health and Medical",
+            "Human Resources",
+            "Information Technology",
+            "International Affairs",
+            "Law Enforcement",
+            "Other",
+            "Procurement and Financial Management",
+            "Science",
+            "Service Delivery",
+            "Transportation"
+        ],
+        "short_hand_recodings": {
+            "Administrative Functions": "Admin Functions",
+            "Cybersecurity": "Cybersecurity",
+            "Emergency Management": "Emergency Mgmt",
+            "Energy and the Environment": "Energy and Environment",
+            "Government Benefits Processing": "Benefits Processing",
+            "Health and Medical": "Health and Medical",
+            "Human Resources": "HR",
+            "Information Technology": "IT",
+            "International Affairs": "International Affairs",
+            "Law Enforcement": "Law Enforcement",
+            "Other": "Other",
+            "Procurement and Financial Management": "Procurement and Finance Mgmt",
+            "Science": "Science",
+            "Service Delivery": "Service Delivery",
+            "Transportation": "Transportation"
+        },
+        "description": "Topic area, required only if active"
+    },
+    "classification": {
+        "column_order_in_original_excel": 9,
+        "excel_header": "AI Classification",
+        "recoding_map": {
+            "Agentic AI: AI systems that perform tasks or make decisions autonomously with minimal human intervention.": [
+                "Agentic AI",
+                "agentic-ai"
+            ],
+            "Classical/Predictive Machine Learning: Models trained on data to make predictions or classifications based on identified patterns or relationships.": [
+                "Classical/Predictive Machine Learning",
+                "Machine Learning",
+                "Machine Learning (Classification/Prediction)",
+                "Classical ML",
+                "Intelligent Automations (AIOps)",
+                "Intelligent Automation (AIOps)"
+            ],
+            "Computer Vision: AI that processes and interprets visual data (e.g., images and videos).": [
+                "Computer Vision",
+                "Computer Vision - AI that processes and interprets visual data (e.g.; images and videos)."
+            ],
+            "Generative AI: AI that generates new or synthetic content (e.g., images, videos, audio, text, code).": [
+                "Generative AI",
+                "Gen AI",
+                "GenAI",
+                "Generative AI; Natural Language Processing (NLP)",
+                "AI-Enabled Application"
+            ],
+            "Natural Language Processing: AI that processes, interprets, and shares information in human language.": [
+                "Natural Language Processing (NLP)",
+                "Natural Language Processing",
+                "NLP"
+            ],
+            "Reinforcement Learning: AI trained through trial and error using rewards and penalties to optimize decision-making policies.": [
+                "Reinforcement Learning"
+            ]
+        },
+        "instructions": "The classification of AI technology that most closely aligns with the AI use case. Note that an AI use case may rely on multiple classifications; however, agencies should select the choice that most closely aligns. Required: Yes, for pre-deployment, pilot and deployed use cases.",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "Agentic AI: AI systems that perform tasks or make decisions autonomously with minimal human intervention.",
+            "Classical/Predictive Machine Learning: Models trained on data to make predictions or classifications based on identified patterns or relationships.",
+            "Computer Vision: AI that processes and interprets visual data (e.g., images and videos).",
+            "Generative AI: AI that generates new or synthetic content (e.g., images, videos, audio, text, code).",
+            "Natural Language Processing: AI that processes, interprets, and shares information in human language.",
+            "Reinforcement Learning: AI trained through trial and error using rewards and penalties to optimize decision-making policies."
+        ],
+        "short_hand_recodings": {
+            "Agentic AI: AI systems that perform tasks or make decisions autonomously with minimal human intervention.": "Agentic AI",
+            "Classical/Predictive Machine Learning: Models trained on data to make predictions or classifications based on identified patterns or relationships.": "Classical ML",
+            "Computer Vision: AI that processes and interprets visual data (e.g., images and videos).": "Computer Vision",
+            "Generative AI: AI that generates new or synthetic content (e.g., images, videos, audio, text, code).": "Generative AI",
+            "Natural Language Processing: AI that processes, interprets, and shares information in human language.": "NLP",
+            "Reinforcement Learning: AI trained through trial and error using rewards and penalties to optimize decision-making policies.": "Reinforcement Learning"
+        },
+        "description": "Agency defined classification"
+    },
+    "problem_solved": {
+        "column_order_in_original_excel": 10,
+        "excel_header": "What problem is the AI intended to solve?",
+        "instructions": "What problem is the AI intended to solve? Required: Yes, for pre-deployment, pilot and deployed use cases.",
+        "data_type": "free_text",
+        "description": "The 'Purpose' of the system"
+    },
+    "benefits": {
+        "column_order_in_original_excel": 11,
+        "excel_header": "What are the expected benefits and positive outcomes from the AI for an agency’s mission and/or the general public?",
+        "instructions": "Description of the expected benefits and positive outcomes from the AI for an agency's mission and/or the general public. Expected benefits may include, for example: cost savings, reducing customer wait times, or improving access to government benefits. Required: Yes, for pre-deployment, pilot and deployed use cases.",
+        "data_type": "free_text",
+        "description": "Impact statement"
+    },
+    "system_outputs": {
+        "column_order_in_original_excel": 12,
+        "excel_header": "Describe the AI system’s outputs.",
+        "instructions": "Description of what the AI system outputs, whether it's a prediction, recommendation, decision, etc. Required: Yes, for pre-deployment, pilot and deployed use cases.",
+        "data_type": "free_text",
+        "description": "Technical description of what the AI produces"
+    },
+    "operational_date": {
+        "column_order_in_original_excel": 13,
+        "excel_header": "Date when AI use case became operational or the pilot’s start date",
+        "instructions": "Date when the AI use case was fully operational or the pilot's start date. Required: Yes, for pilot and deployed use cases.",
+        "data_type": "date",
+        "description": "Operational start date"
+    },
+    "contracting_usage": {
+        "column_order_in_original_excel": 14,
+        "excel_header": "Was the system involved in this use case purchased from a vendor or developed under contract(s) or in-house?",
+        "recoding_map": {
+            "a) Purchased from a vendor": [
+                "Purchased from a vendor",
+                "Purchased from a vendor",
+                "vendor",
+                "Exclusively developed with contract/external resources.",
+                "Vendor Purchased",
+                "a)ÝPurchased from a vendor",
+                "Developed with contracting resources."
+            ],
+            "b) Developed in-house": [
+                "Developed in house",
+                "In-house Development",
+                "Developed in-house",
+                "in house",
+                "in-house",
+                "No contract/external resources used in development.",
+                "In-house Development"
+            ],
+            "c) Developed with both contracting and in-house resources": [
+                "Developed with both contracting and in-house resources",
+                "Developed with both contracting and in-house resources",
+                "in house and contractor",
+                "in house & contractor",
+                "Developed with a combination of in-house and contract/external resources.",
+                "Both, the AI was developed by a vendor but it was substantially customized in-house or by a contractor",
+                "Contracting and In House"
+            ]
+        },
+        "instructions": "Whether the system involved in the use case was developed, or is expected to be developed, exclusively with contracting resources, in-house, or a combination of both. Required: Yes, for pilot and deployed use cases.",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Purchased from a vendor",
+            "b) Developed in-house",
+            "c) Developed with both contracting and in-house resources"
+        ],
+        "short_hand_recodings": {
+            "a) Purchased from a vendor": "Vendor Purchased",
+            "b) Developed in-house": "In-house Development",
+            "c) Developed with both contracting and in-house resources": "Contracting and In House"
+        },
+        "description": "How much contracting was used to build system"
+    },
+    "vendor_name": {
+        "column_order_in_original_excel": 15,
+        "excel_header": "Vendor(s) Name",
+        "instructions": "Identification of the vendor(s) involved in the use case's development and/or maintenance. Required: Yes, but question should only appear if \"Purchased from a vendor\" or \"Developed with both contracting and in-house resources\" is selected for the previous question and if development stage is pilot or deployed.",
+        "data_type": "free_text",
+        "description": "Vendors used for contracting support"
+    },
+    "have_ato": {
+        "column_order_in_original_excel": 16,
+        "excel_header": "Does this AI use case have an associated Authorization to Operate (ATO)?",
+        "recoding_map": {
+            "Yes": [
+                "true",
+                "yes",
+                "Use vendor's ATO or FedRAMP authorization",
+                "In-progress - ATO process underway"
+            ],
+            "No": [
+                "false",
+                "no"
+            ]
+        },
+        "instructions": "Whether the AI use case itself has an associated Authorization to Operate (ATO), or is part of another system that has an ATO. Required: Yes, for pilot and deployed use cases.",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "No",
+            "Yes"
+        ],
+        "description": "Does system have an ATO"
+    },
+    "system_name_ato": {
+        "column_order_in_original_excel": 17,
+        "excel_header": "System(s) Name",
+        "instructions": "Name of the system(s) associated with this AI use case, according to the ATO. Required: Yes, but question should only appear if \"Yes\" is selected for the previous question and development stage is pilot or deployed.",
+        "data_type": "free_text",
+        "description": "Name associated with system if system has an ATO"
+    },
+    "data_description": {
+        "column_order_in_original_excel": 18,
+        "excel_header": "Describe any data used to  train, fine-tune, and/or  evaluate performance of the  model(s) used in this use  case.",
+        "instructions": "General description of the data used in the AI's design, development, training, testing, and operation. This should include a description of any data provided by the agency, whether the datasets are research datasets, publicly available, external, etc. and to the extent possible, sufficient descriptive information from the vendor. Required: Yes, for pilot and deployed use cases.",
+        "data_type": "free_text",
+        "description": "Details on training and evaluation data"
+    },
+    "link_to_data": {
+        "column_order_in_original_excel": 19,
+        "excel_header": "If the data is required to be  publicly disclosed as an  open government data asset,  provide a link to the entry on the Federal Data Catalog.",
+        "instructions": "If the data is required to be publicly disclosed as an open government data asset, provide a link to the entry on the Federal Data Catalog. Required: No",
+        "data_type": "free_text",
+        "description": "Link to data on Federal Data Catalog"
+    },
+    "has_pii": {
+        "column_order_in_original_excel": 20,
+        "excel_header": "Does this AI use case  involve personally  identifiable information (PII)  that is maintained by the  agency?",
+        "recoding_map": {
+            "Yes": [
+                "b) Yes",
+                "true",
+                "Yes (incidental PII may be involved through authenticated platform users)",
+                "Yes - System logs may contain user identifiers",
+                "Yes - Employee names and communications",
+                "Yes - Customer contact and account information",
+                "Yes - Loan applicant and business owner PII",
+                "Yes - Business and individual information in audit records"
+            ],
+            "No": [
+                "a) No",
+                "false",
+                "No - General content generation and research",
+                "Depends on data sources analyzed",
+                "No - Code and technical documentation only"
+            ]
+        },
+        "instructions": "Whether the AI use case involves personally identifiable information (PII), as defined in OMB Circular A-130. Required: Yes, for pilot and deployed use cases.",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "No",
+            "Yes"
+        ],
+        "description": "PII usage flag"
+    },
+    "pia_url": {
+        "column_order_in_original_excel": 21,
+        "excel_header": "If publicly available, provide  the link to the AI use case’s associated Privacy Impact Assessment (PIA).",
+        "instructions": "Whether the AI use case itself has an associated PIA, or is part of another system that has a PIA. Required: No",
+        "data_type": "free_text",
+        "description": "Link to privacy impact assessment"
+    },
+    "demographic_features": {
+        "column_order_in_original_excel": 22,
+        "excel_header": "Which, if any, demographic  variables does the AI use  case explicitly use as model  features?",
+        "recoding_map": {
+            "a) Race/Ethnicity": [
+                "a) Race/Ethnicity",
+                "race",
+                "ethnicity",
+                "race / ethnicity"
+            ],
+            "b) Sex": [
+                "Sex",
+                "sex/gender",
+                "Sex/Gender"
+            ],
+            "c) Age": [
+                "Age"
+            ],
+            "d) Religious Affiliation": [
+                "Religious Affiliation"
+            ],
+            "e) Socioeconomic Status": [
+                "Socioeconomic Status"
+            ],
+            "f) Ability Status": [
+                "Ability Status"
+            ],
+            "g) Residency Status": [
+                "Residency Status"
+            ],
+            "h) Marital Status": [
+                "Marital Status"
+            ],
+            "i) Income": [
+                "Income",
+                "l) income"
+            ],
+            "j) Employment Status": [
+                "Employment Status"
+            ],
+            "k) None of the above": [
+                "None of the above",
+                "None",
+                "na",
+                "n/a",
+                "not applicable"
+            ],
+            "l) Other": [
+                "Other",
+                "I) Other",
+                "i) other"
+            ]
+        },
+        "instructions": "Identification of the demographic features explicitly utilized in the AI use case's data/model(s). Required: Yes, for pilot and deployed use cases.",
+        "data_type": "select_multiple",
+        "valid_selections": [
+            "a) Race/Ethnicity",
+            "b) Sex",
+            "c) Age",
+            "d) Religious Affiliation",
+            "e) Socioeconomic Status",
+            "f) Ability Status",
+            "g) Residency Status",
+            "h) Marital Status",
+            "i) Income",
+            "j) Employment Status",
+            "k) None of the above",
+            "l) Other"
+        ],
+        "description": "Demographic variables used in the model"
+    },
+    "has_custom_code": {
+        "column_order_in_original_excel": 23,
+        "excel_header": "Does this project include  custom-developed code?",
+        "recoding_map": {
+            "Yes": [
+                "true"
+            ],
+            "No": [
+                "false"
+            ]
+        },
+        "instructions": "Whether this AI project includes \"custom developed code,\" as defined in OMB Memorandum M-25-21. Required: Yes, for pilot and deployed use cases.",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "No",
+            "Yes"
+        ],
+        "description": "Flag for custom code development"
+    },
+    "code_url": {
+        "column_order_in_original_excel": 24,
+        "excel_header": "If the code is open source, provide the link for the  publicly available source  code.",
+        "instructions": "Link to publicly available source code for the AI use case, if available. Required: No",
+        "data_type": "free_text",
+        "description": "Link to open source repository"
+    },
+    "hi_testing_conducted": {
+        "column_order_in_original_excel": 25,
+        "excel_header": "Has pre-deployment testing been conducted for this AI  use case? \n\n\n\n\nPractice: Complete AI Impact Assessment",
+        "recoding_map": {
+            "a) Yes": [
+                "Yes"
+            ],
+            "b) In-progress": [
+                "In-progress"
+            ],
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "waived"
+            ]
+        },
+        "instructions": "Whether pre-deployment testing has been conducted for the AI use case, consistent with Section 4(b)(i) of the appendix to OMB Memorandum M-25-21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes",
+            "b) In-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes": "Yes",
+            "b) In-progress": "In-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Pre-deployment testing verification"
+    },
+    "hi_assessment_completed": {
+        "column_order_in_original_excel": 26,
+        "excel_header": "Has an AI impact assessment been completed for this AI use case? \n\n\n\nPractice: Complete AI Impact Assessment",
+        "recoding_map": {
+            "a) Yes": [
+                "Yes"
+            ],
+            "b) In-progress": [
+                "In-progress"
+            ],
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "waived",
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+            ]
+        },
+        "instructions": "Whether an AI impact assessment for the AI use case has been completed, consistent with Section 4(b)(ii) of the appendix to OMB Memorandum M-25- 21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes",
+            "b) In-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes": "Yes",
+            "b) In-progress": "In-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Impact assessment completion flag"
+    },
+    "hi_potential_impacts": {
+        "column_order_in_original_excel": 27,
+        "excel_header": "What are the potential  impacts of using the AI for  this particular use case and  how were they identified?    \n\n\n\nSubpractice: Complete AI  Impact Assessment",
+        "instructions": "Identification of the reasonably foreseeable impacts from using the AI use case, to include impacts on the privacy, civil rights, and civil liberties of the public. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "free_text",
+        "description": "High Impact: Description of potential impacts"
+    },
+    "hi_independent_review": {
+        "column_order_in_original_excel": 28,
+        "excel_header": "Has as independent review  of the AI use case been  conducted?    \n\n\n\n\nSub practice Complete AI  Impact Assessment",
+        "recoding_map": {
+            "a) Yes – by another appropriate agency office or reviewer not directly involved in the AI’s development": [
+                "yes – by another appropriate agency office or reviewer not directly involved in the ai's development"
+            ],
+            "b) Yes – by an agency AI oversight board not directly involved in the AI’s development": [
+                "Yes – by an agency AI oversight board not directly involved in the AI’s development"
+            ],
+            "c) Yes – by the CAIO": [
+                "Yes – by the CAIO"
+            ],
+            "d) In-progress": [
+                "In-progress"
+            ],
+            "e) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "waived",
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+            ]
+        },
+        "instructions": "Whether an independent review of the AI use case has been conducted by an office, oversight board, or individual within the agency who has not been involved in the AI's development.Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes – by another appropriate agency office or reviewer not directly involved in the AI’s development",
+            "b) Yes – by an agency AI oversight board not directly involved in the AI’s development",
+            "c) Yes – by the CAIO",
+            "d) In-progress",
+            "e) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes – by another appropriate agency office or reviewer not directly involved in the AI’s development": "Internal Independent Review",
+            "b) Yes – by an agency AI oversight board not directly involved in the AI’s development": "Oversight Board Review",
+            "c) Yes – by the CAIO": "CAIO Review",
+            "d) In-progress": "In-progress",
+            "e) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Independent review flag"
+    },
+    "hi_ongoing_monitoring": {
+        "column_order_in_original_excel": 29,
+        "excel_header": "Is there a process to conduct\nongoing monitoring to\nidentify any adverse impacts\nto the performance and\nsecurity of the AI functionality, as well as to privacy, civil rights, and civil liberties?\n\nPractice: Conduct Ongoing Monitoring for Performance and Potential Adverse Impacts",
+        "recoding_map": {
+            "a) Yes, sufficient monitoring protocols have been established": [
+                "Yes, sufficient monitoring protocols have been established",
+                "yes"
+            ],
+            "b) Development of monitoring protocols is in-progress": [
+                "Development of monitoring protocols is in-progess",
+                "Development of monitoring protocols is in-progress",
+                "in-progress"
+            ],
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB",
+                "wavied"
+            ]
+        },
+        "instructions": "Whether a process to conduct ongoing monitoring for the AI use case has been established, consistent with Section 4(b)(iii) of the appendix to OMB Memorandum M-25-21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes, sufficient monitoring protocols have been established",
+            "b) Development of monitoring protocols is in-progess",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes, sufficient monitoring protocols have been established": "Yes - Monitoring Established",
+            "b) Development of monitoring protocols is in-progress": "In-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Monitoring process verification"
+    },
+    "hi_training_established": {
+        "column_order_in_original_excel": 30,
+        "excel_header": "Has the agency established sufficient and periodic  training for operators of the  AI to interpret and act on the  its output and managed associated risks?\n\n\nPractice: Ensure Adequate Human Training and Assessment",
+        "recoding_map": {
+            "a) Yes, sufficient and periodic training has been established": [
+                "Yes, sufficient and periodic training has been established",
+                "yes"
+            ],
+            "b) Establishment of sufficient and periodic training is in-progress": [
+                "Establishment of sufficient and periodic training is in-progress",
+                "in-progress"
+            ],
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB",
+                "waived"
+            ]
+        },
+        "instructions": "Whether sufficient and periodic training for operators of the AI use case has been established, consistent with Section 4(b)(iv) of the appendix to OMB Memorandum M-25-21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes, sufficient and periodic training has been established",
+            "b) Establishment of sufficient and periodic training is in-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes, sufficient and periodic training has been established": "Training Established",
+            "b) Establishment of sufficient and periodic training is in-progress": "Training In-progress",
+            "c) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Operator training verification"
+    },
+    "hi_failsafe_presence": {
+        "column_order_in_original_excel": 31,
+        "excel_header": "Does this AI use case have an appropriate fail-safe that minimizes the risk of significant harm?\n\n\n\n\n\nPractice: Provide Additional Human Oversight, Intervention, and Accountability",
+        "recoding_map": {
+            "a) Yes": [
+                "yes"
+            ],
+            "b) Not applicable": [
+                "n/a",
+                "NA",
+                "not applicable"
+            ],
+            "c) In-progress": [
+                "In-progress"
+            ],
+            "d) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "waived",
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+            ]
+        },
+        "instructions": "Whether the AI use case has an appropriate fail-safe that minimizes the risk of significant harm, consistent with Section 4(b)(v) of the appendix to OMB Memorandum M-25-21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes",
+            "b) Not applicable",
+            "c) In-progress",
+            "d) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes": "Yes",
+            "b) Not applicable": "Not Applicable",
+            "c) In-progress": "In-progress",
+            "d) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Fail-safe mechanism verification"
+    },
+    "hi_appeal_process": {
+        "column_order_in_original_excel": 32,
+        "excel_header": "Is there an established appeal process in the event that an impacted individual would like to appeal or  contest the AI system’s  outcome?\n\n\nPractice: Offer Consistent Remedies or Appeals",
+        "recoding_map": {
+            "a) Yes, an appropriate appeal process has been established": [
+                "Yes",
+                "Yes, an appropriate appeal process has been established"
+            ],
+            "b) Not applicable": [
+                "n/a",
+                "NA",
+                "not applicable"
+            ],
+            "c) Establishment of an appropriate appeal process is in-progress": [
+                "In-progress",
+                "Establishment of an appropriate appeal process is in-progress"
+            ],
+            "d) Law, operational limitations, or governmentwide guidance precludes an opportunity for an individual to appeal": [
+                "Law, operational limitations, or governmentwide guidance precludes an opportunity for an individual to appeal",
+                "precluded"
+            ],
+            "e) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB",
+                "waived"
+            ]
+        },
+        "instructions": "Whether there is an established appeal process for this AI use case in the event that an impacted individual would like to appeal or contest the AI system's outcome, consistent with Section 4(b)(vi) of the appendix to OMB Memorandum M-25-21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "multiple_choice",
+        "valid_selections": [
+            "a) Yes, an appropriate appeal process has been established",
+            "b) Not applicable",
+            "c) Establishment of an appropriate appeal process is in-progress",
+            "d) Law, operational limitations, or governmentwide guidance precludes an opportunity for an individual to appeal",
+            "e) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Yes, an appropriate appeal process has been established": "Appeal Process Established",
+            "b) Not applicable": "Not Applicable",
+            "c) Establishment of an appropriate appeal process is in-progress": "Appeal Process In-progress",
+            "d) Law, operational limitations, or governmentwide guidance precludes an opportunity for an individual to appeal": "Appeal Precluded by Law",
+            "e) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Appeal process verification"
+    },
+    "hi_public_consultation": {
+        "column_order_in_original_excel": 33,
+        "excel_header": "What steps has the agency taken to consult and incorporate feedback from end users of this AI use case and the public?\n\n\n\n\nPractice: Consult and Incorporate Feedback from End Users and the Public",
+        "recoding_map": {
+            "a) Direct usability testing": [
+                "Direct usability testing"
+            ],
+            "b) General solicitations of feedback and comments from the public": [
+                "General solicitations of feedback and comments from the public"
+            ],
+            "c) Public hearings or meetings ": [
+                "Public hearings or meetings "
+            ],
+            "d) Other": [
+                "Other"
+            ],
+            "e) In-progress": [
+                "In-progress"
+            ],
+            "f) Agency CAIO has waived this minimum practice and reported such waiver to OMB": [
+                "Agency CAIO has waived this minimum practice and reported such waiver to OMB",
+                "waived"
+            ]
+        },
+        "instructions": "Identification of what steps the agency has taken to consult and incorporate feedback from end users of this AI use case and the public, consistent with Section 4(b)(vii) of the appendix to OMB Memorandum M-25-21. Required: Yes, only for high-impact deployed use cases",
+        "data_type": "select_multiple",
+        "valid_selections": [
+            "a) Direct usability testing",
+            "b) General solicitations of feedback and comments from the public",
+            "c) Public hearings or meetings ",
+            "d) Other",
+            "e) In-progress",
+            "f) Agency CAIO has waived this minimum practice and reported such waiver to OMB"
+        ],
+        "short_hand_recodings": {
+            "a) Direct usability testing": "Usability Testing",
+            "b) General solicitations of feedback and comments from the public": "Public Feedback Solicitations",
+            "c) Public hearings or meetings ": "Public Hearings",
+            "d) Other": "Other",
+            "e) In-progress": "In-progress",
+            "f) Agency CAIO has waived this minimum practice and reported such waiver to OMB": "CAIO Waived"
+        },
+        "description": "High Impact: Public/User consultation steps"
+    }
+}
