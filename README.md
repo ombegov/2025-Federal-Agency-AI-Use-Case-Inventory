@@ -83,7 +83,7 @@ As of April 13, 2026, the following represents a summary of the current reposito
 |Surface Transportation Board|2|0|0|Y|
 |Tennessee Valley Authority|59|59|0|Y|
 |U.S. Election Assistance Commission|4|4|0|Y|
-|U.S. International Trade Commission|N/A||||
+|U.S. International Trade Commission|This agency has no individual AI use cases to report|This agency has no individual AI use cases to report|This agency has no individual AI use cases to report|Y|
 |U.S. Office of Special Counsel|1|1|0|Y|
 |U.S. Trade and Development Agency|This agency has no individual AI use cases to report|This agency has no individual AI use cases to report|This agency has no individual AI use cases to report|Y|
 |TOTALS|3611|1818|445||
